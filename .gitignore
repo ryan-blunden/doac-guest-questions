@@ -1,0 +1,19 @@
+# Node / Astro
+node_modules/
+dist/
+.astro/
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local environment / tooling
+.env
+
+# OS / editor noise
+.DS_Store
+
+# Local verification artifacts
+.codex-home.png
+.codex-home-mobile.png
