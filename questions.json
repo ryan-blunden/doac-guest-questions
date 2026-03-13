@@ -1,0 +1,1182 @@
+[
+  {
+    "slug": "5-natural-medicines-big-pharma-are-hiding-from-you-no-1-herbal-medicine-expert",
+    "title": "5 Natural Medicines Big Pharma Are Hiding From You! No.1 Herbal Medicine Expert",
+    "video_url": "https://www.youtube.com/watch?v=5Jk5XCLAr6w",
+    "question": "How do you keep up?",
+    "category": "general",
+    "question_extraction": "anchor",
+    "confidence": 54,
+    "hidden": false
+  },
+  {
+    "slug": "ai-agents-debate-these-jobs-won-t-exist-in-24-months",
+    "title": "AI AGENTS DEBATE: These Jobs Won't Exist In 24 Months!",
+    "video_url": "https://www.youtube.com/watch?v=JMYQmGfTltY",
+    "question": "Are you telling me that you're alive at this particular moment?",
+    "category": "life",
+    "question_extraction": "fallback-tail",
+    "confidence": 72,
+    "hidden": false
+  },
+  {
+    "slug": "ai-expert-here-is-what-the-world-looks-like-in-2-years-tristan-harris",
+    "title": "AI Expert: Here Is What The World Looks Like In 2 Years! Tristan Harris",
+    "video_url": "https://www.youtube.com/watch?v=BFU1OCkhBwo",
+    "question": "If you could slash had the chance to relive a moment or day in your life, what would it be and why?",
+    "category": "life",
+    "question_extraction": "anchor",
+    "confidence": 32,
+    "hidden": true
+  },
+  {
+    "slug": "alcohol-rewires-your-brain-dr-sarah-wakeman",
+    "title": "Alcohol Rewires Your Brain - Dr. Sarah Wakeman",
+    "video_url": "https://www.youtube.com/watch?v=Fg7U-BhiZGE",
+    "question": "If you could redo or revise one thing that you have successfully accomplished, what would that be and why?",
+    "category": "business",
+    "question_extraction": "anchor",
+    "confidence": 86,
+    "hidden": false
+  },
+  {
+    "slug": "america-is-at-breaking-point-is-gavin-newsom-america-s-next-president",
+    "title": "America Is at Breaking Point, Is Gavin Newsom America\u2019s Next President?",
+    "video_url": "https://www.youtube.com/watch?v=1NLoTuRR3hE",
+    "question": "Have you received a sign from beyond?",
+    "category": "society",
+    "question_extraction": "anchor",
+    "confidence": 100,
+    "hidden": false
+  },
+  {
+    "slug": "an-ai-expert-warning-6-people-are-quietly-deciding-humanity-s-future",
+    "title": "An AI Expert Warning: 6 People Are (Quietly) Deciding Humanity\u2019s Future!",
+    "video_url": "https://www.youtube.com/watch?v=P7Y-fynYsgE",
+    "question": "What do you value the most in life and why?",
+    "category": "society",
+    "question_extraction": "anchor",
+    "confidence": 96,
+    "hidden": false
+  },
+  {
+    "slug": "anti-aging-expert-missing-this-vitamin-is-as-bad-as-smoking-the-truth-about-crea",
+    "title": "Anti-Aging Expert: Missing This Vitamin Is As Bad As Smoking! The Truth About Creatine!",
+    "video_url": "https://www.youtube.com/watch?v=JCTb3QSrGMQ",
+    "question": "If you could go back and change one thing about your life, what would it be?",
+    "category": "life",
+    "question_extraction": "anchor",
+    "confidence": 96,
+    "hidden": false
+  },
+  {
+    "slug": "atheist-vs-christian-vs-spiritual-thinker-is-not-believing-in-god-causing-more-h",
+    "title": "Atheist vs Christian vs Spiritual Thinker: Is Not Believing In God Causing More Harm Than Good?!",
+    "video_url": "https://www.youtube.com/watch?v=Esu8BXLBmZ4",
+    "question": "If you understand that process and if you change a couple of things and sometimes it's amazing how small they are, right?",
+    "category": "beliefs",
+    "question_extraction": "fallback-tail",
+    "confidence": 8,
+    "hidden": true
+  },
+  {
+    "slug": "body-language-expert-explains-why-people-dislike-you",
+    "title": "Body Language Expert Explains Why People Dislike You",
+    "video_url": "https://www.youtube.com/watch?v=ldizQkuWpDE",
+    "question": "What are you doing on a daily basis to improve the life of someone else?",
+    "category": "health",
+    "question_extraction": "anchor",
+    "confidence": 96,
+    "hidden": false
+  },
+  {
+    "slug": "brain-experts-warning-watch-this-before-using-chatgpt-again-shocking-new-discove",
+    "title": "Brain Experts WARNING: Watch This Before Using ChatGPT Again! (Shocking New Discovery)",
+    "video_url": "https://www.youtube.com/watch?v=5wXlmlIXJOI",
+    "question": "Are you prepared for recognition of your next health challenge?",
+    "category": "health",
+    "question_extraction": "anchor",
+    "confidence": 100,
+    "hidden": false
+  },
+  {
+    "slug": "brain-experts-warning-watch-this-before-using-chatgpt-again-shocking-new-discove",
+    "title": "Brain Experts WARNING: Watch This Before Using ChatGPT Again! (Shocking New Discovery)",
+    "video_url": "https://www.youtube.com/watch?v=5wXlmlIXJOI",
+    "question": "How will you address the challenge even if it means a major lifestyle change or way of living?",
+    "category": "health",
+    "question_extraction": "anchor",
+    "confidence": 100,
+    "hidden": false
+  },
+  {
+    "slug": "brain-rot-emergency-these-internal-documents-prove-they-re-controlling-you",
+    "title": "Brain Rot Emergency: These Internal Documents Prove They\u2019re Controlling You!",
+    "video_url": "https://www.youtube.com/watch?v=EScgrk7oEwU",
+    "question": "Who's it for?",
+    "category": "health",
+    "question_extraction": "fallback-tail",
+    "confidence": 0,
+    "hidden": true
+  },
+  {
+    "slug": "bren-brown-the-algorithms-have-forced-us-into-a-hidden-epidemic-this-is-the-only",
+    "title": "Bren\u00e9 Brown: The Algorithms Have Forced Us Into A Hidden Epidemic, This Is The Only Way Out!",
+    "video_url": "https://www.youtube.com/watch?v=jroF3PH-PTs",
+    "question": "What are you optimizing for right now?",
+    "category": "general",
+    "question_extraction": "anchor",
+    "confidence": 96,
+    "hidden": false
+  },
+  {
+    "slug": "chris-eubank-jr-i-was-paid-for-the-fight-the-night-before-dad-finally-opened-up",
+    "title": "Chris Eubank Jr: I Was Paid $***** For The Fight! The Night Before, Dad Finally Opened Up!",
+    "video_url": "https://www.youtube.com/watch?v=OsAlLgGf9JM",
+    "question": "If you could listen to one album for the rest of your life, what would it be and why?",
+    "category": "life",
+    "question_extraction": "anchor",
+    "confidence": 86,
+    "hidden": false
+  },
+  {
+    "slug": "chris-williamson-fix-this-one-habit-and-2026-will-be-your-best-year",
+    "title": "Chris Williamson: Fix This One Habit And 2026 Will Be Your Best Year!",
+    "video_url": "https://www.youtube.com/watch?v=q_vZ4H3uW28",
+    "question": "What is the most important component of human joy and endeavor that you believe must be preserved in priority?",
+    "category": "life",
+    "question_extraction": "anchor",
+    "confidence": 86,
+    "hidden": false
+  },
+  {
+    "slug": "chris-williamson-new-research-on-why-men-and-women-are-no-longer-compatible",
+    "title": "Chris Williamson: New Research On Why Men And Women Are No Longer Compatible!",
+    "video_url": "https://www.youtube.com/watch?v=K2tGt2XWd9Q",
+    "question": "Go back to the most painful or emotionally challenging moment or period you had as a child. What would you say to that child now?",
+    "category": "life",
+    "question_extraction": "anchor",
+    "confidence": 96,
+    "hidden": false
+  },
+  {
+    "slug": "cia-spy-leave-the-usa-before-2030-why-you-shouldn-t-trust-your-gut-andrew-bustam",
+    "title": "CIA Spy: \"Leave The USA Before 2030!\" Why You Shouldn't Trust Your Gut! - Andrew Bustamante",
+    "video_url": "https://www.youtube.com/watch?v=QVVe2rCHtN0",
+    "question": "What is something you used to strongly believe that you have fundamentally changed your mind on?",
+    "category": "health",
+    "question_extraction": "anchor",
+    "confidence": 96,
+    "hidden": false
+  },
+  {
+    "slug": "cia-whistleblower-they-can-see-all-your-messages",
+    "title": "CIA Whistleblower: They Can See All Your Messages!",
+    "video_url": "https://www.youtube.com/watch?v=yUNoJ32eLBc",
+    "question": "What's something you stopped doing that improved your life more than anything you started?",
+    "category": "life",
+    "question_extraction": "anchor",
+    "confidence": 96,
+    "hidden": false
+  },
+  {
+    "slug": "cognitive-decline-expert-the-disease-that-starts-in-your-30s-but-kills-you-in-yo",
+    "title": "Cognitive Decline Expert: The Disease That Starts in Your 30s but Kills You in Your 70s",
+    "video_url": "https://www.youtube.com/watch?v=0t_DD5568RA",
+    "question": "What is God to you?",
+    "category": "beliefs",
+    "question_extraction": "anchor",
+    "confidence": 96,
+    "hidden": false
+  },
+  {
+    "slug": "debate-feminist-women-vs-non-feminist-women",
+    "title": "DEBATE: Feminist Women Vs Non-Feminist Women",
+    "video_url": "https://www.youtube.com/watch?v=ZHuZ_8VYCWA",
+    "question": "Do you want that spaciousness in your life or do you want rules?",
+    "category": "life",
+    "question_extraction": "fallback-tail",
+    "confidence": 72,
+    "hidden": true
+  },
+  {
+    "slug": "discipline-expert-the-habit-that-will-make-or-break-your-entire-2026",
+    "title": "Discipline Expert: The Habit That Will Make Or Break Your Entire 2026!",
+    "video_url": "https://www.youtube.com/watch?v=rtufWBLOXgw",
+    "question": "What do you believe is the best way to unify people of differing or even conflicting beliefs?",
+    "category": "beliefs",
+    "question_extraction": "anchor",
+    "confidence": 96,
+    "hidden": false
+  },
+  {
+    "slug": "divorce-expert-slippage-is-tearing-marriages-apart-if-kids-are-your-priority-you",
+    "title": "Divorce Expert: Slippage Is Tearing Marriages Apart! If Kids Are Your Priority You\u2019ll Divorce!",
+    "video_url": "https://www.youtube.com/watch?v=oAgGirY-GUQ",
+    "question": "What is your most controversial opinion?",
+    "category": "relationships",
+    "question_extraction": "anchor",
+    "confidence": 96,
+    "hidden": false
+  },
+  {
+    "slug": "dopamine-expert-how-tiktok-is-physically-rewiring-your-brain-permanent-damage",
+    "title": "Dopamine Expert: How TikTok Is Physically Rewiring Your Brain (Permanent Damage?)",
+    "video_url": "https://www.youtube.com/watch?v=2ZKLaUbB33o",
+    "question": "What's the one thing the universe keeps putting in front of you and what is the thing that it keeps you learning?",
+    "category": "health",
+    "question_extraction": "anchor",
+    "confidence": 32,
+    "hidden": true
+  },
+  {
+    "slug": "dr-sampson-your-oral-microbiome-is-linked-to-this-disease",
+    "title": "Dr Sampson: Your Oral Microbiome Is Linked To This Disease!",
+    "video_url": "https://www.youtube.com/watch?v=p3fSwd1cF08",
+    "question": "What is the most important relationship in your life and why?",
+    "category": "life",
+    "question_extraction": "anchor",
+    "confidence": 96,
+    "hidden": false
+  },
+  {
+    "slug": "early-retirement-expert-a-house-vs-stocks-here-is-the-truth",
+    "title": "Early Retirement Expert: A House Vs Stocks... (Here Is The Truth)",
+    "video_url": "https://www.youtube.com/watch?v=99xyy1nUpug",
+    "question": "If you had all the money you needed to have to support yourself and your family, zero financial worries, what job profession would you be doing?",
+    "category": "beliefs",
+    "question_extraction": "anchor",
+    "confidence": 56,
+    "hidden": false
+  },
+  {
+    "slug": "esther-perel-the-3-attachment-styles-why-you-re-struggling-with-love",
+    "title": "Esther Perel: The 3 Attachment Styles & Why You\u2019re Struggling With Love!",
+    "video_url": "https://www.youtube.com/watch?v=nTWXfo7narw",
+    "question": "What is the one piece of advice you received in the last decade that you think about most frequently?",
+    "category": "relationships",
+    "question_extraction": "anchor",
+    "confidence": 86,
+    "hidden": false
+  },
+  {
+    "slug": "ex-google-exec-warning-the-next-15-years-will-be-hell-before-we-get-to-heaven-mo",
+    "title": "Ex-Google Exec (WARNING): The Next 15 Years Will Be Hell Before We Get To Heaven! - Mo Gawdat",
+    "video_url": "https://www.youtube.com/watch?v=S9a1nLw70p0",
+    "question": "What three things do you do you do that make your brain better and three things that make it worse?",
+    "category": "society",
+    "question_extraction": "fallback-tail",
+    "confidence": 100,
+    "hidden": false
+  },
+  {
+    "slug": "exact-formula-used-to-build-a-130-billion-company-i-said-no-to-3b-from-mark-zuck",
+    "title": "Exact Formula Used To Build A $130 Billion Company! I Said No to $3B From Mark Zuckerberg!",
+    "video_url": "https://www.youtube.com/watch?v=rBM6lGk4-fk",
+    "question": "What is the hardest thing you ever had to overcome?",
+    "category": "business",
+    "question_extraction": "fallback-tail",
+    "confidence": 100,
+    "hidden": false
+  },
+  {
+    "slug": "exercise-nutrition-scientist-the-truth-about-exercise-on-your-period-take-these-",
+    "title": "Exercise & Nutrition Scientist: The Truth About Exercise On Your Period! Take These 4 Supplements!",
+    "video_url": "https://www.youtube.com/watch?v=It5_C6AF1pk",
+    "question": "If you have children, what is the most important message you would pass on to them?",
+    "category": "beliefs",
+    "question_extraction": "anchor",
+    "confidence": 96,
+    "hidden": false
+  },
+  {
+    "slug": "former-cia-spies-new-leave-the-usa-before-2030-the-cia-tried-to-ban-this-story",
+    "title": "Former CIA Spies (NEW): Leave the USA Before 2030! The CIA Tried To Ban This Story!",
+    "video_url": "https://www.youtube.com/watch?v=fu6bYPTp_kE",
+    "question": "How did a mistake you made shift the trajectory of your life in a way you could not have predicted?",
+    "category": "life",
+    "question_extraction": "anchor",
+    "confidence": 86,
+    "hidden": false
+  },
+  {
+    "slug": "former-fbi-agent-if-they-do-this-please-run-narcissists-favourite-trick-to-contr",
+    "title": "Former FBI Agent: If They Do This Please RUN! Narcissists Favourite Trick To Control You!",
+    "video_url": "https://www.youtube.com/watch?v=ZuiIvevLg40",
+    "question": "What do people say that they like about you?",
+    "category": "relationships",
+    "question_extraction": "anchor",
+    "confidence": 96,
+    "hidden": false
+  },
+  {
+    "slug": "godfather-of-ai-they-keep-silencing-me-but-i-m-trying-to-warn-them",
+    "title": "Godfather of AI: They Keep Silencing Me But I\u2019m Trying to Warn Them!",
+    "video_url": "https://www.youtube.com/watch?v=giT0ytynSqg",
+    "question": "What is the biggest threat you see to human happiness?",
+    "category": "society",
+    "question_extraction": "anchor",
+    "confidence": 96,
+    "hidden": false
+  },
+  {
+    "slug": "godfather-of-ai-we-have-2-years-before-everything-changes",
+    "title": "Godfather of AI: We Have 2 Years Before Everything Changes!",
+    "video_url": "https://www.youtube.com/watch?v=zQ1POHiR8m8",
+    "question": "If you had one last phone call with the people you love the most, what would you say on that phone call and what advice would you give them?",
+    "category": "relationships",
+    "question_extraction": "anchor",
+    "confidence": 56,
+    "hidden": false
+  },
+  {
+    "slug": "hormone-expert-control-your-hormones-control-your-belly-fat-cortisol-oestrogen-t",
+    "title": "Hormone Expert: Control Your Hormones Control Your Belly Fat! Cortisol, oestrogen, testosterone.",
+    "video_url": "https://www.youtube.com/watch?v=0GQozcTPyO0",
+    "question": "What do you do every day to make a better brain and better world?",
+    "category": "health",
+    "question_extraction": "anchor",
+    "confidence": 84,
+    "hidden": false
+  },
+  {
+    "slug": "hormone-fertility-experts-we-ve-been-lied-to-about-women-s-health-if-this-happen",
+    "title": "Hormone & Fertility Experts: We've Been Lied To About Women's Health! If This Happens, Call A Doctor",
+    "video_url": "https://www.youtube.com/watch?v=kizDk8idpT8",
+    "question": "What is the most important subject you think we might have missed?",
+    "category": "health",
+    "question_extraction": "fallback-tail",
+    "confidence": 72,
+    "hidden": true
+  },
+  {
+    "slug": "how-to-make-money-do-not-buy-a-house-10-ways-to-make-real-money-ramit-sethi",
+    "title": "How To Make Money...\"Do Not Buy A House!\" 10 Ways To Make REAL Money: Ramit Sethi",
+    "video_url": "https://www.youtube.com/watch?v=ORqd9QAC8OY",
+    "question": "What is other people's biggest misconception of you?",
+    "category": "business",
+    "question_extraction": "anchor",
+    "confidence": 96,
+    "hidden": false
+  },
+  {
+    "slug": "i-met-an-uncontacted-tribe-they-killed-my-friend-video-proof",
+    "title": "I Met An Uncontacted Tribe: They Killed My Friend! (VIDEO PROOF)",
+    "video_url": "https://www.youtube.com/watch?v=sR7S2Q3c04g",
+    "question": "If you only had three years left to live, >> what would you regret not doing?",
+    "category": "life",
+    "question_extraction": "anchor",
+    "confidence": 78,
+    "hidden": false
+  },
+  {
+    "slug": "insulin-doctor-the-fastest-way-to-burn-dangerous-visceral-fat-i-m-finding-mould-",
+    "title": "Insulin Doctor: The Fastest Way To Burn Dangerous Visceral Fat! I'm Finding Mould In My Patients!",
+    "video_url": "https://www.youtube.com/watch?v=gryta3KZKU4",
+    "question": "When he he was sick and he didn't want to go to the hospital and then he passed away in his sleep and then you always ask yourself, could I have done something differently?",
+    "category": "health",
+    "question_extraction": "anchor",
+    "confidence": 56,
+    "hidden": true
+  },
+  {
+    "slug": "insulin-doctor-this-is-the-first-sign-of-dementia-the-shocking-link-between-keto",
+    "title": "Insulin Doctor: This Is The First Sign Of Dementia! The Shocking Link Between Keto & Brain Decline!",
+    "video_url": "https://www.youtube.com/watch?v=KVXnVe8eOkM",
+    "question": "do you have a daily practice to find deep inner peace when you are emotionally triggered?",
+    "category": "health",
+    "question_extraction": "anchor",
+    "confidence": 96,
+    "hidden": false
+  },
+  {
+    "slug": "insulin-expert-how-to-drain-your-liver-of-fat-do-this",
+    "title": "Insulin Expert: How To 'Drain' Your Liver of Fat (Do This!)",
+    "video_url": "https://www.youtube.com/watch?v=C7LL7VwP8Nc",
+    "question": "If you could have anything in the world for the rest of your life, what would it be and why?",
+    "category": "health",
+    "question_extraction": "fallback-tail",
+    "confidence": 100,
+    "hidden": false
+  },
+  {
+    "slug": "invest-in-this-it-ll-be-worth-1-5-million-by-2030-world-leading-investing-expert",
+    "title": "Invest in This \u2013 It\u2019ll Be Worth $1.5 Million by 2030 | World Leading Investing Expert",
+    "video_url": "https://www.youtube.com/watch?v=ZznpMh0DegE",
+    "question": "What is the craziest idea you ever had that turned out to be right?",
+    "category": "society",
+    "question_extraction": "anchor",
+    "confidence": 96,
+    "hidden": false
+  },
+  {
+    "slug": "j-rgen-klopp-would-you-go-back-to-manage-lfc-the-real-reason-i-fell-in-love-with",
+    "title": "J\u00fcrgen Klopp: Would You Go Back To Manage LFC...? The Real Reason I Fell In Love With Liverpool!",
+    "video_url": "https://www.youtube.com/watch?v=UMy6GESNkDc",
+    "question": "Is there a particular moment, a particular conversation, a particular day that if you could you would go back and change or say something you wish you had said?",
+    "category": "life",
+    "question_extraction": "anchor",
+    "confidence": 56,
+    "hidden": false
+  },
+  {
+    "slug": "jeff-cavaliere-the-truth-about-creatine-melt-belly-fat-with-1-change",
+    "title": "Jeff Cavaliere: The TRUTH about Creatine! Melt Belly Fat With 1 Change!",
+    "video_url": "https://www.youtube.com/watch?v=epAVydG6IxI",
+    "question": "What would you change about you first and secondly?",
+    "category": "beliefs",
+    "question_extraction": "anchor",
+    "confidence": 96,
+    "hidden": false
+  },
+  {
+    "slug": "jimmy-fallon-i-didn-t-expect-it-to-be-this-brutal-the-hate-was-something-i-wasn-",
+    "title": "Jimmy Fallon: I Didn't Expect It To Be This Brutal! The Hate Was Something I Wasn\u2019t Prepared For!",
+    "video_url": "https://www.youtube.com/watch?v=yHCtfU3syM4",
+    "question": "What I'm doing.\" It's fascinating I if that's the real truth.",
+    "category": "beliefs",
+    "question_extraction": "anchor",
+    "confidence": 62,
+    "hidden": true
+  },
+  {
+    "slug": "jocko-willink-former-navy-seal-use-this-weird-trick-to-overcome-fear-anxiety-sel",
+    "title": "Jocko Willink (Former Navy Seal): Use This Weird Trick To Overcome Fear, Anxiety & Self-Doubt!",
+    "video_url": "https://www.youtube.com/watch?v=3eZJ_y68wsg",
+    "question": "If you could bring someone back who's no longer with us and have a conversation with them, who would it be and what would that conversation entail?",
+    "category": "life",
+    "question_extraction": "anchor",
+    "confidence": 56,
+    "hidden": false
+  },
+  {
+    "slug": "kamala-harris-america-is-at-breaking-point-i-m-deeply-concerned-about-the-state-",
+    "title": "Kamala Harris: America Is At Breaking Point & I'm Deeply Concerned About The State Of The Country!",
+    "video_url": "https://www.youtube.com/watch?v=D3lhrrXb4WI",
+    "question": "If there was a moment in the last 10 years you would do differently, what would it be and why?",
+    "category": "society",
+    "question_extraction": "anchor",
+    "confidence": 96,
+    "hidden": false
+  },
+  {
+    "slug": "kevin-hart-they-re-lying-to-you-about-how-to-become-a-millionaire-i-was-doing-28",
+    "title": "Kevin Hart: They're Lying To You About How To Become A Millionaire! I Was Doing 28 Sets A Weekend!",
+    "video_url": "https://www.youtube.com/watch?v=5sCGZAcXKWg",
+    "question": "What is the advice you got as an adult that had the most significant impact on your life?",
+    "category": "business",
+    "question_extraction": "anchor",
+    "confidence": 96,
+    "hidden": false
+  },
+  {
+    "slug": "kevin-o-leary-every-time-you-get-paid-do-this-it-10xs-your-income-without-having",
+    "title": "Kevin O'Leary: Every Time You Get Paid, Do This! It 10xs Your Income Without Having To Work Harder!",
+    "video_url": "https://www.youtube.com/watch?v=mpAZehPviLQ",
+    "question": "Where do you believe happiness really comes from?",
+    "category": "business",
+    "question_extraction": "anchor",
+    "confidence": 96,
+    "hidden": false
+  },
+  {
+    "slug": "longevity-debate-shocking-weight-loss-truth-they-ve-been-hiding-this-for-years",
+    "title": "Longevity Debate: SHOCKING Weight Loss Truth! They've Been Hiding This For YEARS!",
+    "video_url": "https://www.youtube.com/watch?v=P1CeHGJOX5g",
+    "question": "How do you do that?",
+    "category": "beliefs",
+    "question_extraction": "fallback-tail",
+    "confidence": 72,
+    "hidden": true
+  },
+  {
+    "slug": "louis-theroux-the-thing-that-makes-me-great-at-work-makes-me-bad-at-life-e198",
+    "title": "Louis Theroux: \"The Thing That Makes Me Great At Work, Makes Me Bad At Life!\" | E198",
+    "video_url": "https://www.youtube.com/watch?v=cj8ojSVgU9I",
+    "question": "Who the previous guest was, but the previous guest has written a question, um, for you not knowing it was for you, and they said, what is your opinion on hallucinogens?",
+    "category": "business",
+    "question_extraction": "anchor",
+    "confidence": 56,
+    "hidden": true
+  },
+  {
+    "slug": "louis-tomlinson-when-the-police-knocked-i-just-knew-the-room-was-cold-that-day",
+    "title": "Louis Tomlinson: When The Police Knocked... I Just Knew! \"The Room Was Cold That Day\".",
+    "video_url": "https://www.youtube.com/watch?v=lylGyddTiGg",
+    "question": "If you are a high achiever and performer, have you prioritized the most important thing?",
+    "category": "general",
+    "question_extraction": "anchor",
+    "confidence": 96,
+    "hidden": true
+  },
+  {
+    "slug": "matthew-mcconaughey-the-silent-crisis-no-one-is-talking-about-i-sabotaged-my-own",
+    "title": "Matthew McConaughey: The Silent Crisis No One Is Talking About! I Sabotaged My Own Career!",
+    "video_url": "https://www.youtube.com/watch?v=QMzxNfX-uAg",
+    "question": "What is your greatest weakness?",
+    "category": "business",
+    "question_extraction": "anchor",
+    "confidence": 96,
+    "hidden": false
+  },
+  {
+    "slug": "michelle-obama-this-is-a-scam-people-were-running-from-us-because-we-were-black",
+    "title": "Michelle Obama: This Is A Scam! People Were Running From Us Because We Were Black!",
+    "video_url": "https://www.youtube.com/watch?v=D67eWcX2XYQ",
+    "question": "Who would it be?",
+    "category": "relationships",
+    "question_extraction": "anchor",
+    "confidence": 74,
+    "hidden": true
+  },
+  {
+    "slug": "minute-by-minute-of-what-happens-if-a-nuclear-bomb-hits-how-to-survive-it",
+    "title": "Minute By Minute Of What Happens If A Nuclear Bomb Hits & How To Survive It!",
+    "video_url": "https://www.youtube.com/watch?v=asmaLnhaFiY",
+    "question": "What is the last thing you changed your mind about?",
+    "category": "life",
+    "question_extraction": "anchor",
+    "confidence": 96,
+    "hidden": false
+  },
+  {
+    "slug": "mohnish-pabrai-fastest-way-to-financial-freedom-proven-playbook-for-quitting-you",
+    "title": "Mohnish Pabrai: FASTEST Way To Financial Freedom! Proven Playbook For Quitting Your 9-5 In 9 Months!",
+    "video_url": "https://www.youtube.com/watch?v=qgeQ5kMVwRA",
+    "question": "If you could go anywhere right now instantly, where would you go?",
+    "category": "society",
+    "question_extraction": "anchor",
+    "confidence": 96,
+    "hidden": false
+  },
+  {
+    "slug": "neil-degrasse-tyson-the-harsh-truth-about-horoscopes-sorry-but-it-s-true",
+    "title": "Neil deGrasse Tyson: The Harsh Truth About Horoscopes (sorry but it\u2019s true)",
+    "video_url": "https://www.youtube.com/watch?v=gW3vVIFRVhw",
+    "question": "How good are you at knowing what you will regret and is there anything you do regret?",
+    "category": "beliefs",
+    "question_extraction": "anchor",
+    "confidence": 96,
+    "hidden": false
+  },
+  {
+    "slug": "neuroscientist-dr-tara-swart-evidence-we-can-communicate-after-death",
+    "title": "Neuroscientist (Dr. Tara Swart): Evidence We Can Communicate After Death!",
+    "video_url": "https://www.youtube.com/watch?v=yfEQRqFo2bI",
+    "question": "What is the best thing that someone has done for you?",
+    "category": "life",
+    "question_extraction": "anchor",
+    "confidence": 96,
+    "hidden": false
+  },
+  {
+    "slug": "nischa-shah-they-re-lying-to-you-about-buying-a-house-my-652510-rule-built-200k-",
+    "title": "Nischa Shah: They\u2019re Lying To You About Buying a House! My 652510 Rule Built $200K Passive Income!",
+    "video_url": "https://www.youtube.com/watch?v=NxTsA72O5x0",
+    "question": "Could you go back if you're wrong?",
+    "category": "general",
+    "question_extraction": "fallback-tail",
+    "confidence": 72,
+    "hidden": true
+  },
+  {
+    "slug": "no-1-brain-scientist-your-brain-is-lying-to-you-here-s-how-i-discovered-the-trut",
+    "title": "No.1 Brain Scientist: Your Brain Is Lying To You! Here's How I Discovered The Truth!",
+    "video_url": "https://www.youtube.com/watch?v=hQaN5w3YwtM",
+    "question": "What does that mean?",
+    "category": "beliefs",
+    "question_extraction": "fallback-tail",
+    "confidence": 62,
+    "hidden": true
+  },
+  {
+    "slug": "no-1-christianity-expert-the-truth-about-christianity-the-case-for-jesus-histori",
+    "title": "No.1 Christianity Expert: The Truth About Christianity! The Case For Jesus (Historian's Proof)",
+    "video_url": "https://www.youtube.com/watch?v=nrwNSSyKuD4",
+    "question": "What is one risk that you should be taking in your life but aren't currently?",
+    "category": "beliefs",
+    "question_extraction": "anchor",
+    "confidence": 96,
+    "hidden": false
+  },
+  {
+    "slug": "no-1-money-saving-experts-do-not-buy-a-house-putting-money-in-a-bank-makes-you-p",
+    "title": "No.1 Money Saving Experts: Do Not Buy A House! Putting Money In A Bank Makes You Poorer!",
+    "video_url": "https://www.youtube.com/watch?v=XTGlde-Pbd8",
+    "question": "Is there anything else that you guys would like me to link that you think is going to be pertinent to the audience?",
+    "category": "business",
+    "question_extraction": "fallback-tail",
+    "confidence": 62,
+    "hidden": true
+  },
+  {
+    "slug": "no-1-neuroscientist-your-whole-life-might-be-a-prediction",
+    "title": "No.1 Neuroscientist: Your Whole Life Might Be a Prediction",
+    "video_url": "https://www.youtube.com/watch?v=rCtvAvZtJyE",
+    "question": "How about then how to live life without your identity making you unhappy?",
+    "category": "life",
+    "question_extraction": "anchor",
+    "confidence": 96,
+    "hidden": true
+  },
+  {
+    "slug": "no-1-sugar-expert-you-ve-been-sold-a-lie-about-healthy-food",
+    "title": "No. 1 Sugar Expert: You've Been Sold A Lie About \"Healthy\" Food!",
+    "video_url": "https://www.youtube.com/watch?v=ZE_H7rijrVk",
+    "question": "How would you describe the journey of life and how to approach it?",
+    "category": "health",
+    "question_extraction": "anchor",
+    "confidence": 96,
+    "hidden": false
+  },
+  {
+    "slug": "oz-pearlman-mentalist-this-small-mistake-makes-people-dislike-you-they-do-this-t",
+    "title": "Oz Pearlman (Mentalist): This Small Mistake Makes People Dislike You! They Do This, They\u2019re Lying!",
+    "video_url": "https://www.youtube.com/watch?v=4qfxHfBJ3Mw",
+    "question": "If you could live forever, would you?",
+    "category": "life",
+    "question_extraction": "anchor",
+    "confidence": 96,
+    "hidden": true
+  },
+  {
+    "slug": "passive-income-expert-buying-a-house-makes-you-poorer-than-renting",
+    "title": "Passive Income Expert: Buying A House Makes You Poorer Than Renting!",
+    "video_url": "https://www.youtube.com/watch?v=FoeQUNASmTU",
+    "question": "Is there anywhere else that they can get in contact with you, read your work that I should recommend?",
+    "category": "business",
+    "question_extraction": "fallback-tail",
+    "confidence": 62,
+    "hidden": true
+  },
+  {
+    "slug": "passive-income-expert-how-to-make-10k-per-month-in-90-days",
+    "title": "Passive Income Expert: How To Make $10k Per Month In 90 Days!",
+    "video_url": "https://www.youtube.com/watch?v=4QLWlcneJig",
+    "question": "What was that in particular?",
+    "category": "general",
+    "question_extraction": "anchor",
+    "confidence": 96,
+    "hidden": true
+  },
+  {
+    "slug": "peter-attia-anti-aging-cure-no-one-talks-about-50-chance-you-ll-die-in-a-year-if",
+    "title": "Peter Attia: Anti-aging Cure No One Talks About! 50% Chance You\u2019ll Die In A Year If This Happens!",
+    "video_url": "https://www.youtube.com/watch?v=ZxXruY7llcc",
+    "question": "So, could I ask you for a favor?",
+    "category": "general",
+    "question_extraction": "anchor",
+    "confidence": 84,
+    "hidden": true
+  },
+  {
+    "slug": "ray-dalio-we-re-heading-into-very-very-dark-times-america-the-uk-s-decline-is-co",
+    "title": "Ray Dalio: We\u2019re Heading Into Very, Very Dark Times! America & The UK\u2019s Decline Is Coming!",
+    "video_url": "https://www.youtube.com/watch?v=49RT6SQ8n0Y",
+    "question": "What is a book or books that you've recommended or gifted more than others and why?",
+    "category": "society",
+    "question_extraction": "anchor",
+    "confidence": 96,
+    "hidden": false
+  },
+  {
+    "slug": "richard-branson-how-a-dyslexic-drop-out-build-a-billion-dollar-empire",
+    "title": "Richard Branson: How A Dyslexic Drop-out Build A Billion Dollar Empire!",
+    "video_url": "https://www.youtube.com/watch?v=-Fmiqik4jh0",
+    "question": "Where were you when you when you felt most vulnerable and why?",
+    "category": "general",
+    "question_extraction": "anchor",
+    "confidence": 96,
+    "hidden": true
+  },
+  {
+    "slug": "scooter-braun-when-everything-broke-it-fixed-me",
+    "title": "Scooter Braun: When Everything Broke, It Fixed Me",
+    "video_url": "https://www.youtube.com/watch?v=j4z25zj6bmE",
+    "question": "If you could do one thing that fear of failure has kept you from doing, what would it be and why has it kept you from doing it?",
+    "category": "life",
+    "question_extraction": "anchor",
+    "confidence": 56,
+    "hidden": true
+  },
+  {
+    "slug": "secret-agent-authenticity-is-quietly-sabotaging-you-do-this-they-ll-stop-respect",
+    "title": "Secret Agent: Authenticity Is Quietly Sabotaging You! Do This & They'll Stop Respecting You!",
+    "video_url": "https://www.youtube.com/watch?v=DazRYdqZRDI",
+    "question": "So, could I ask you for a favor?",
+    "category": "relationships",
+    "question_extraction": "anchor",
+    "confidence": 84,
+    "hidden": true
+  },
+  {
+    "slug": "secret-buddhist-practice-to-stop-self-hate-overthinking",
+    "title": "Secret Buddhist Practice To Stop Self Hate & Overthinking!",
+    "video_url": "https://www.youtube.com/watch?v=vIbLQQ1i56Y",
+    "question": "What are the ways that you express your love and appreciation for the people who matter to you in your personal or professional life?",
+    "category": "life",
+    "question_extraction": "anchor",
+    "confidence": 74,
+    "hidden": true
+  },
+  {
+    "slug": "secret-service-agent-how-to-stay-in-control-when-someone-is-trying-to-manipulate",
+    "title": "Secret Service Agent: How To Stay In Control When Someone Is Trying To Manipulate You!",
+    "video_url": "https://www.youtube.com/watch?v=xDQyLnNAXr4",
+    "question": "You would be a different person, right?",
+    "category": "general",
+    "question_extraction": "fallback-tail",
+    "confidence": 60,
+    "hidden": true
+  },
+  {
+    "slug": "sex-expert-esther-perel-the-relationship-crisis-no-one-talks-about-that-s-killin",
+    "title": "Sex Expert (Esther Perel): The Relationship Crisis No One Talks About That's Killing Your Sex Life!",
+    "video_url": "https://www.youtube.com/watch?v=QCaFWrT0j-g",
+    "question": "How are you going to adapt to a world of AI and robots?",
+    "category": "society",
+    "question_extraction": "anchor",
+    "confidence": 96,
+    "hidden": false
+  },
+  {
+    "slug": "shaolin-warrior-master-hidden-epidemic-nobody-talks-about-this-modern-habit-is-k",
+    "title": "Shaolin Warrior Master: Hidden Epidemic Nobody Talks About! This Modern Habit Is Killing Millions!",
+    "video_url": "https://www.youtube.com/watch?v=atejm2w2jWY",
+    "question": "What is your greatest regret?",
+    "category": "health",
+    "question_extraction": "anchor",
+    "confidence": 96,
+    "hidden": false
+  },
+  {
+    "slug": "simon-cowell-opens-up-about-his-heartbreaking-loss-his-regrets-about-one-directi",
+    "title": "Simon Cowell Opens Up About His Heartbreaking Loss & His Regrets About One Direction!",
+    "video_url": "https://www.youtube.com/watch?v=BvsbCdCG8gE",
+    "question": "What one decision could you make today that would have the most positive impact on your life long term?",
+    "category": "life",
+    "question_extraction": "anchor",
+    "confidence": 86,
+    "hidden": false
+  },
+  {
+    "slug": "simon-sinek-i-feel-lonely-how-to-deal-with-loneliness-e230",
+    "title": "Simon Sinek: \"I FEEL LONELY!\" How To Deal With Loneliness! | E230",
+    "video_url": "https://www.youtube.com/watch?v=D46zvJI-njU",
+    "question": "You know, would I have preferred it 5 years ago, 10 years ago?",
+    "category": "general",
+    "question_extraction": "fallback-tail",
+    "confidence": 60,
+    "hidden": true
+  },
+  {
+    "slug": "simon-sinek-you-re-being-lied-to-about-ai-s-real-purpose-we-re-teaching-our-kids",
+    "title": "Simon Sinek: You're Being Lied To About AI's Real Purpose! We're Teaching Our Kids To Not Be Human!",
+    "video_url": "https://www.youtube.com/watch?v=W4tqbEmplug",
+    "question": "What are you doing in your life to mentor someone coming up behind you",
+    "category": "beliefs",
+    "question_extraction": "fallback-tail",
+    "confidence": 72,
+    "hidden": false
+  },
+  {
+    "slug": "sleep-doctor-if-you-wake-up-at-3am-do-not-do-this",
+    "title": "Sleep Doctor: If You Wake Up At 3AM, DO NOT Do This!",
+    "video_url": "https://www.youtube.com/watch?v=pXlMKzcZlwM",
+    "question": "If you could have the power to change one thing in the US healthare system, what would it be and why?",
+    "category": "health",
+    "question_extraction": "anchor",
+    "confidence": 74,
+    "hidden": false
+  },
+  {
+    "slug": "the-6-science-backed-brain-fixes-most-people-are-ignoring",
+    "title": "The 6 Science Backed Brain Fixes Most People Are Ignoring!",
+    "video_url": "https://www.youtube.com/watch?v=Oipkl53n938",
+    "question": "Do you know what I've just realized?",
+    "category": "health",
+    "question_extraction": "fallback-tail",
+    "confidence": 72,
+    "hidden": true
+  },
+  {
+    "slug": "the-ai-safety-expert-these-are-the-only-5-jobs-that-will-remain-in-2030-dr-roman",
+    "title": "The AI Safety Expert: These Are The Only 5 Jobs That Will Remain In 2030! - Dr. Roman Yampolskiy",
+    "video_url": "https://www.youtube.com/watch?v=UclrVWafRAI",
+    "question": "What does loyalty mean to you?",
+    "category": "society",
+    "question_extraction": "fallback-tail",
+    "confidence": 72,
+    "hidden": false
+  },
+  {
+    "slug": "the-business-expert-how-to-build-a-brand-in-2025-they-re-lying-to-you-about-work",
+    "title": "The Business Expert: How To Build A Brand In 2025! They're Lying To You About Work-Life Balance!",
+    "video_url": "https://www.youtube.com/watch?v=EdlXcVu1CTs",
+    "question": "What about you is better or has vastly improved because of the person who loves you the most?",
+    "category": "business",
+    "question_extraction": "anchor",
+    "confidence": 96,
+    "hidden": false
+  },
+  {
+    "slug": "the-cancelled-professor-men-are-hardwired-to-cheat-dr-gad-saad",
+    "title": "The Cancelled Professor: Men Are Hardwired To Cheat! - Dr Gad Saad",
+    "video_url": "https://www.youtube.com/watch?v=1g9VX34MSUA",
+    "question": "Who that guest was or you don't?",
+    "category": "general",
+    "question_extraction": "anchor",
+    "confidence": 96,
+    "hidden": true
+  },
+  {
+    "slug": "the-doctor-that-got-banned-for-speaking-out-we-ve-been-lied-to-about-medication-",
+    "title": "The Doctor That Got Banned For Speaking Out:\u201cWe've Been Lied To About Medication!\u201d Dr Aseem Malhotra",
+    "video_url": "https://www.youtube.com/watch?v=R87QLweXl1A",
+    "question": "What was the quality that made them superstars?",
+    "category": "general",
+    "question_extraction": "anchor",
+    "confidence": 96,
+    "hidden": true
+  },
+  {
+    "slug": "the-fat-burning-expert-the-real-reason-you-re-not-losing-belly-fat-and-how-to-fi",
+    "title": "The Fat Burning Expert: The REAL Reason You\u2019re Not Losing Belly Fat (and How To Fix It Fast!)",
+    "video_url": "https://www.youtube.com/watch?v=3C185Gkgg0U",
+    "question": "How does nature impact on your life?",
+    "category": "health",
+    "question_extraction": "anchor",
+    "confidence": 96,
+    "hidden": true
+  },
+  {
+    "slug": "the-food-doctor-extra-protein-is-making-you-fatter-6-food-lies-everyone-still-be",
+    "title": "The Food Doctor: Extra Protein Is Making You Fatter!? 6 Food Lies Everyone Still Believes!",
+    "video_url": "https://www.youtube.com/watch?v=7XrntcEUjLM",
+    "question": "What is a modern positive vision of masculinity?",
+    "category": "health",
+    "question_extraction": "anchor",
+    "confidence": 96,
+    "hidden": false
+  },
+  {
+    "slug": "the-foot-expert-your-toes-can-predict-if-you-ll-die-early-this-will-fix-plantar-",
+    "title": "The Foot Expert: Your Toes Can Predict If You\u2019ll Die Early! This Will Fix Plantar Fasciitis!",
+    "video_url": "https://www.youtube.com/watch?v=CMzEnLkS2rQ",
+    "question": "What do you fear you will most likely regret 10 years from now?",
+    "category": "general",
+    "question_extraction": "anchor",
+    "confidence": 84,
+    "hidden": false
+  },
+  {
+    "slug": "the-gaslighting-expert-if-they-do-this-you-re-being-manipulated",
+    "title": "The Gaslighting Expert: If They Do This, You're Being Manipulated!",
+    "video_url": "https://www.youtube.com/watch?v=ZPVdK9v0CK8",
+    "question": "Who are you most dying to meet and why?",
+    "category": "general",
+    "question_extraction": "fallback-tail",
+    "confidence": 8,
+    "hidden": true
+  },
+  {
+    "slug": "the-iran-war-expert-i-simulated-the-iran-war-for-20-years-here-s-what-happens-ne",
+    "title": "The Iran War Expert: I Simulated The Iran War for 20 Years. Here\u2019s What Happens Next",
+    "video_url": "https://www.youtube.com/watch?v=xcXfcXJvMXg",
+    "question": "What is the prediction you have for the future that most people do not want to hear?",
+    "category": "society",
+    "question_extraction": "anchor",
+    "confidence": 96,
+    "hidden": false
+  },
+  {
+    "slug": "the-love-expert-the-real-reason-we-re-lonely-loveless-depressed-alain-de-botton-",
+    "title": "The Love Expert: The REAL Reason We\u2019re Lonely, Loveless, Depressed - Alain De Botton, School Of Life",
+    "video_url": "https://www.youtube.com/watch?v=oI7BxBNp1uE",
+    "question": "What was the last thought to keep you awake at night?",
+    "category": "life",
+    "question_extraction": "anchor",
+    "confidence": 96,
+    "hidden": false
+  },
+  {
+    "slug": "the-man-warning-the-west-trump-is-changing-the-world-behind-the-scenes",
+    "title": "The Man Warning The West: Trump Is Changing The World Behind The Scenes",
+    "video_url": "https://www.youtube.com/watch?v=nJeU72Rgjh4",
+    "question": "Who was the biggest non-family member influence in your life and how did they make you a better person?",
+    "category": "society",
+    "question_extraction": "anchor",
+    "confidence": 86,
+    "hidden": false
+  },
+  {
+    "slug": "the-microbiome-doctor-doctors-were-wrong-the-3-foods-you-should-eat-for-perfect-",
+    "title": "The Microbiome Doctor: Doctors Were Wrong! The 3 Foods You Should Eat For Perfect Gut Health!",
+    "video_url": "https://www.youtube.com/watch?v=w3dTmyZq4Qk",
+    "question": "Do you just think that knowledge is power in this regard?",
+    "category": "health",
+    "question_extraction": "fallback-tail",
+    "confidence": 72,
+    "hidden": true
+  },
+  {
+    "slug": "the-poo-doctor-this-cheap-spice-fixes-a-damaged-gut",
+    "title": "The Poo Doctor: This Cheap Spice Fixes A Damaged Gut!",
+    "video_url": "https://www.youtube.com/watch?v=5Tr7AhkOEj4",
+    "question": "What is one thing you could do today to help rectify your life's biggest regret?",
+    "category": "life",
+    "question_extraction": "anchor",
+    "confidence": 96,
+    "hidden": false
+  },
+  {
+    "slug": "the-porn-addiction-crisis-no-one-wants-to-talk-about-dr-k",
+    "title": "The Porn Addiction Crisis No One Wants to Talk About \u2013 Dr. K",
+    "video_url": "https://www.youtube.com/watch?v=dm2qDrb3UVo",
+    "question": "What is the most powerful love in your life and why?",
+    "category": "life",
+    "question_extraction": "anchor",
+    "confidence": 96,
+    "hidden": false
+  },
+  {
+    "slug": "the-savings-expert-passive-income-is-a-scam-post-traumatic-broke-syndrome-is-con",
+    "title": "The Savings Expert: Passive Income Is A Scam! Post-Traumatic Broke Syndrome Is Controlling Millions!",
+    "video_url": "https://www.youtube.com/watch?v=jFlnRBO8mcg",
+    "question": "Do you have major regrets in life?",
+    "category": "life",
+    "question_extraction": "anchor",
+    "confidence": 96,
+    "hidden": false
+  },
+  {
+    "slug": "the-savings-expert-the-truth-about-america-collapsing-the-cost-of-living-is-abou",
+    "title": "The Savings Expert: The Truth About America Collapsing! The Cost Of Living Is About To Skyrocket!",
+    "video_url": "https://www.youtube.com/watch?v=uxu37dqVR90",
+    "question": "What is one thing you valued starting out that you no longer value?",
+    "category": "beliefs",
+    "question_extraction": "anchor",
+    "confidence": 96,
+    "hidden": false
+  },
+  {
+    "slug": "the-simple-proven-way-to-earn-100-000-from-nothing-the-money-making-experts",
+    "title": "The SIMPLE (& Proven) Way To Earn $100,000 From Nothing! | The Money Making Experts",
+    "video_url": "https://www.youtube.com/watch?v=hVlAOIUA71Y",
+    "question": "How much does it cost me to deliver them?",
+    "category": "business",
+    "question_extraction": "fallback-tail",
+    "confidence": 72,
+    "hidden": true
+  },
+  {
+    "slug": "the-sugar-doctor-the-simple-diet-that-prevents-80-of-disease",
+    "title": "The Sugar Doctor: The Simple Diet That Prevents 80% of Disease!",
+    "video_url": "https://www.youtube.com/watch?v=QXUNnXHXeVQ",
+    "question": "What is outside the simulation?",
+    "category": "general",
+    "question_extraction": "anchor",
+    "confidence": 96,
+    "hidden": true
+  },
+  {
+    "slug": "the-woman-who-makes-millionaires-only-1-of-people-do-this-the-ppf-framework-will",
+    "title": "The Woman Who Makes Millionaires: Only 1% of People Do This! The PPF Framework Will 10x Your Income!",
+    "video_url": "https://www.youtube.com/watch?v=VsTMXuIV3OM",
+    "question": "What would you do if you knew you would not fail?",
+    "category": "business",
+    "question_extraction": "anchor",
+    "confidence": 96,
+    "hidden": true
+  },
+  {
+    "slug": "they-re-lying-about-healthy-foods-sugar-shocking-new-research-that-s-harming-you",
+    "title": "They're Lying About 'Healthy' Foods & Sugar! Shocking New Research That's Harming You",
+    "video_url": "https://www.youtube.com/watch?v=Xm_PHZXGe-w",
+    "question": "If you could make the world a better place in one way, what would you change?",
+    "category": "health",
+    "question_extraction": "anchor",
+    "confidence": 96,
+    "hidden": false
+  },
+  {
+    "slug": "this-common-food-is-feeding-your-cancer-cells-dr-william-li",
+    "title": "This Common Food Is Feeding Your Cancer Cells - Dr. William Li",
+    "video_url": "https://www.youtube.com/watch?v=LgsJ3V9pIG0",
+    "question": "How would you be able to tell that your time here on Earth has been successful, that you've achieved what you set out to achieve?",
+    "category": "business",
+    "question_extraction": "anchor",
+    "confidence": 68,
+    "hidden": false
+  },
+  {
+    "slug": "tim-ferriss-the-hidden-nerve-that-controls-trauma-mood-emotional-pain",
+    "title": "Tim Ferriss: The Hidden Nerve That Controls Trauma, Mood & Emotional Pain!",
+    "video_url": "https://www.youtube.com/watch?v=GFyijjy1KdU",
+    "question": "Did I spend the amount of time I would want to spend with these people last year?",
+    "category": "health",
+    "question_extraction": "fallback-tail",
+    "confidence": 60,
+    "hidden": true
+  },
+  {
+    "slug": "tom-aspinall-opens-up-about-brain-damage-his-future-in-the-ufc",
+    "title": "Tom Aspinall Opens Up About Brain Damage & His Future In the UFC",
+    "video_url": "https://www.youtube.com/watch?v=puc5pZVsFPY",
+    "question": "Why don't you work harder?",
+    "category": "society",
+    "question_extraction": "anchor",
+    "confidence": 96,
+    "hidden": false
+  },
+  {
+    "slug": "tony-robbins-no-one-is-ready-for-what-s-coming-the-truth-about-ai",
+    "title": "Tony Robbins: No One Is Ready For What's Coming (The truth about AI).",
+    "video_url": "https://www.youtube.com/watch?v=I_w81rptxkc",
+    "question": "If you could choose your life span, how long would it be and at what point would you choose to die?",
+    "category": "beliefs",
+    "question_extraction": "anchor",
+    "confidence": 74,
+    "hidden": false
+  },
+  {
+    "slug": "top-harvard-professor-the-psychology-of-why-people-don-t-like-you",
+    "title": "Top Harvard Professor: The Psychology Of Why People Don't Like You!",
+    "video_url": "https://www.youtube.com/watch?v=TYXzR5KahEg",
+    "question": "What would they be screaming at the screen telling you to do right now?",
+    "category": "relationships",
+    "question_extraction": "anchor",
+    "confidence": 96,
+    "hidden": true
+  },
+  {
+    "slug": "top-intelligence-advisor-epstein-was-a-front-they-can-see-everything-even-your-m",
+    "title": "Top Intelligence Advisor: \u201cEpstein Was A Front.\u201d They Can See Everything, Even Your Messages!",
+    "video_url": "https://www.youtube.com/watch?v=t38LbMVoPCs",
+    "question": "Where do you think the origin of your purpose and meaning comes from objectively?",
+    "category": "beliefs",
+    "question_extraction": "anchor",
+    "confidence": 74,
+    "hidden": false
+  },
+  {
+    "slug": "top-psychologist-donald-hoffman-seeing-true-reality-would-kill-us-i-can-prove-it",
+    "title": "Top Psychologist, Donald Hoffman: Seeing True Reality Would Kill Us! I Can Prove It To You!",
+    "video_url": "https://www.youtube.com/watch?v=W0vTZrZny6A",
+    "question": "What would you do if you knew you could not fail?",
+    "category": "society",
+    "question_extraction": "anchor",
+    "confidence": 96,
+    "hidden": false
+  },
+  {
+    "slug": "uber-ceo-i-have-to-be-honest-ai-will-replace-9-4-million-jobs-at-uber",
+    "title": "Uber CEO: I Have To Be Honest, AI Will Replace 9.4 Million Jobs At Uber!",
+    "video_url": "https://www.youtube.com/watch?v=s52O1JH2tnU",
+    "question": "What is one conversation that if you could rewind time and have you would have today but can no longer have?",
+    "category": "society",
+    "question_extraction": "anchor",
+    "confidence": 74,
+    "hidden": false
+  },
+  {
+    "slug": "vitamin-d-expert-the-fastest-way-to-dementia-the-big-lie-about-sunlight",
+    "title": "Vitamin D Expert: The Fastest Way To Dementia & The Big Lie About Sunlight!",
+    "video_url": "https://www.youtube.com/watch?v=wQJlGHVmdrA",
+    "question": "What do you mean?",
+    "category": "health",
+    "question_extraction": "anchor",
+    "confidence": 74,
+    "hidden": true
+  },
+  {
+    "slug": "world-expert-on-love-your-brain-already-picked-your-partner-but-they-re-lying-ab",
+    "title": "World Expert on Love: Your Brain Already Picked Your Partner (But They\u2019re Lying About Monogamy)",
+    "video_url": "https://www.youtube.com/watch?v=hxsnk90VwCo",
+    "question": "What's next?",
+    "category": "relationships",
+    "question_extraction": "anchor",
+    "confidence": 56,
+    "hidden": true
+  },
+  {
+    "slug": "world-no-1-divorce-lawyer-if-you-do-this-your-marriage-is-already-over",
+    "title": "World No.1 Divorce Lawyer: If You Do This, Your Marriage Is Already Over.",
+    "video_url": "https://www.youtube.com/watch?v=Uvy5mcLiWW0",
+    "question": "What is the most significant dream you have had in the past year and how did it change your behavior?",
+    "category": "life",
+    "question_extraction": "anchor",
+    "confidence": 86,
+    "hidden": false
+  },
+  {
+    "slug": "world-no-1-fasting-expert-the-link-between-cancer-fasting-that-they-re-hiding-fr",
+    "title": "World No.1 Fasting Expert: The Link Between Cancer & Fasting That They're Hiding From You!",
+    "video_url": "https://www.youtube.com/watch?v=jDG1m_b5Ih0",
+    "question": "What is the biggest lie that you think is ruining most people's life?",
+    "category": "life",
+    "question_extraction": "anchor",
+    "confidence": 96,
+    "hidden": false
+  },
+  {
+    "slug": "world-no-1-sleep-expert-magnesium-isn-t-helping-you-sleep-this-habit-increases-h",
+    "title": "World No.1 Sleep Expert: Magnesium Isn\u2019t Helping You Sleep! This Habit Increases Heart Disease 57%!",
+    "video_url": "https://www.youtube.com/watch?v=qxxnRMT9C-8",
+    "question": "What did success bring you that you never could have dreamed of?",
+    "category": "business",
+    "question_extraction": "anchor",
+    "confidence": 96,
+    "hidden": false
+  },
+  {
+    "slug": "world-s-greatest-climber-if-i-had-one-last-climb-it-would-be",
+    "title": "World's Greatest Climber: If I Had One Last Climb It Would Be...",
+    "video_url": "https://www.youtube.com/watch?v=ajgwabD4_HE",
+    "question": "What do you want to achieve in your life outside of your mainline job that you haven't yet achieved?",
+    "category": "society",
+    "question_extraction": "anchor",
+    "confidence": 86,
+    "hidden": false
+  },
+  {
+    "slug": "ww3-threat-assessment-trump-bombing-iran-makes-ww3-more-likely",
+    "title": "WW3 Threat Assessment: Trump Bombing Iran Makes WW3 More Likely!",
+    "video_url": "https://www.youtube.com/watch?v=e9dljIL4rBk",
+    "question": "Which has been a smash hit with New York Times bestseller, wasn't it?",
+    "category": "life",
+    "question_extraction": "fallback-tail",
+    "confidence": 72,
+    "hidden": true
+  },
+  {
+    "slug": "ww3-threat-assessment-world-war-iii-has-quietly-started",
+    "title": "WW3 Threat Assessment: World War III Has Quietly Started!",
+    "video_url": "https://www.youtube.com/watch?v=8qObdS-bhRM",
+    "question": "What do they think about the world?",
+    "category": "society",
+    "question_extraction": "fallback-tail",
+    "confidence": 72,
+    "hidden": true
+  },
+  {
+    "slug": "you-re-watching-the-end-of-the-world-in-real-time-eric-weinstein",
+    "title": "You\u2019re Watching the End of the World in Real Time - Eric Weinstein",
+    "video_url": "https://www.youtube.com/watch?v=I-iyGGPabpI",
+    "question": "What is the problem that you are doing the most mental gymnastics to avoid?",
+    "category": "society",
+    "question_extraction": "fallback-tail",
+    "confidence": 72,
+    "hidden": true
+  },
+  {
+    "slug": "yuval-noah-harari-an-urgent-warning-they-hope-you-ignore-more-war-is-coming",
+    "title": "Yuval Noah Harari: An Urgent Warning They Hope You Ignore. More War Is Coming!",
+    "video_url": "https://www.youtube.com/watch?v=UzOJiqN_DpM",
+    "question": "If you could impose a global law, but only one global law, what would it be and why?",
+    "category": "society",
+    "question_extraction": "anchor",
+    "confidence": 96,
+    "hidden": false
+  }
+]
