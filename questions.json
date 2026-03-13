@@ -567,7 +567,7 @@
     "category": "health",
     "question_extraction": "fallback-tail",
     "confidence": 60,
-    "hidden": false
+    "hidden": true
   },
   {
     "slug": "james-smith-how-to-create-the-life-you-ve-always-wanted-e120",
@@ -1047,7 +1047,7 @@
     "category": "general",
     "question_extraction": "fallback-tail",
     "confidence": 72,
-    "hidden": false
+    "hidden": true
   },
   {
     "slug": "simon-cowell-opens-up-about-his-heartbreaking-loss-his-regrets-about-one-directi",
@@ -1347,7 +1347,7 @@
     "category": "general",
     "question_extraction": "fallback-tail",
     "confidence": 60,
-    "hidden": false
+    "hidden": true
   },
   {
     "slug": "the-savings-expert-passive-income-is-a-scam-post-traumatic-broke-syndrome-is-con",
@@ -1377,7 +1377,7 @@
     "category": "health",
     "question_extraction": "fallback-tail",
     "confidence": 72,
-    "hidden": false
+    "hidden": true
   },
   {
     "slug": "the-simple-proven-way-to-earn-100-000-from-nothing-the-money-making-experts",
