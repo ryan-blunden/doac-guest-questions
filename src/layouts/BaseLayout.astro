@@ -38,7 +38,7 @@ const navItems: NavItem[] = [
     <meta
       name="description"
       content={description ??
-        "The questions DOAC guests left behind for the next guest."}
+        "The questions DOAC guests leave for the next guest."}
     />
     <style is:global>
       @import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Manrope:wght@400;500;700;800&family=Caveat:wght@500;700&display=swap");
@@ -540,7 +540,8 @@ const navItems: NavItem[] = [
   </head>
   <body>
     <div class="site-shell">
-      {/*
+      {
+        /*
         <header class="site-header">
           <div class="brand-lockup">
             <span class="brand-kicker">The Diary Of A CEO</span>
@@ -564,7 +565,8 @@ const navItems: NavItem[] = [
             </ul>
           </nav>
         </header>
-      */}
+      */
+      }
       <slot />
     </div>
   </body>

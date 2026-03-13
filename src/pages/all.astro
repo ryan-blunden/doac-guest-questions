@@ -7,8 +7,8 @@ const categoryPayload = JSON.stringify(categories);
 ---
 
 <BaseLayout
-  title="All DOAC Guest Questions"
-  description="Browse the full archive of handoff questions from Diary of a CEO guests."
+  title="All Questions"
+  description="Browse the full archive of questions from Diary of a CEO guests."
   activePath="/all"
 >
   <section class="section-panel">
@@ -16,10 +16,20 @@ const categoryPayload = JSON.stringify(categories);
       <div class="page-filters">
         <div class="page-filter-bar">
           <div class="pill-row page-filter-row" id="archive-category-filters">
-            <button class="pill is-active" data-category="all" type="button">All</button>
-            {categories.map((category) => (
-              <button class="pill" data-category={category.slug} type="button">{category.label}</button>
-            ))}
+            <button class="pill is-active" data-category="all" type="button"
+              >All</button
+            >
+            {
+              categories.map((category) => (
+                <button
+                  class="pill"
+                  data-category={category.slug}
+                  type="button"
+                >
+                  {category.label}
+                </button>
+              ))
+            }
           </div>
         </div>
       </div>

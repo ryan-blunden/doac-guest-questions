@@ -43,10 +43,6 @@ export const categoryMeta: Record<string, { label: string; note: string }> = {
     label: "Relationships",
     note: "Love, family, friendship, trust, and being understood by other people.",
   },
-  society: {
-    label: "Society",
-    note: "Technology, politics, culture, and where the world might be heading.",
-  },
 };
 
 export const categories = Object.entries(

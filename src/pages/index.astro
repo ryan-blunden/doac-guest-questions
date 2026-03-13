@@ -6,7 +6,7 @@ const questionPayload = JSON.stringify(questions);
 ---
 
 <BaseLayout
-  title="DOAC Guest Questions"
+  title="DOAC Closing Questions"
   description="Draw a random question left behind by a Diary of a CEO guest."
   activePath="/"
 >
@@ -14,19 +14,25 @@ const questionPayload = JSON.stringify(questions);
     <div class="page-filters">
       <div class="page-filter-bar">
         <div class="pill-row page-filter-row" id="category-filters">
-          {categories.map((category) => (
-            <button
-              class="pill"
-              data-category={category.slug}
-              data-category-template="true"
-              type="button"
-            >
-              {category.label}
-            </button>
-          ))}
+          {
+            categories.map((category) => (
+              <button
+                class="pill"
+                data-category={category.slug}
+                data-category-template="true"
+                type="button"
+              >
+                {category.label}
+              </button>
+            ))
+          }
         </div>
 
-        <button class="button primary draw-action-button" id="draw-another" type="button">
+        <button
+          class="button primary draw-action-button"
+          id="draw-another"
+          type="button"
+        >
           Draw
         </button>
       </div>
@@ -55,7 +61,10 @@ const questionPayload = JSON.stringify(questions);
       background: rgba(20, 20, 20, 0.04);
       border: 1.5px dashed rgba(20, 20, 20, 0.14);
       border-radius: var(--card-radius);
-      max-width: min(100%, min(390px, calc((100svh - 320px) * var(--card-aspect))));
+      max-width: min(
+        100%,
+        min(390px, calc((100svh - 320px) * var(--card-aspect)))
+      );
       width: min(100%, min(390px, calc((100svh - 320px) * var(--card-aspect))));
     }
 
@@ -122,8 +131,10 @@ const questionPayload = JSON.stringify(questions);
     const renderFilterButtons = () => {
       const buttons = [
         `<button class="pill" data-category="all" type="button">All</button>`,
-        ...Array.from(filterRoot.querySelectorAll("[data-category-template]")).map(
-          (button) => button.outerHTML.replace(' data-category-template="true"', ""),
+        ...Array.from(
+          filterRoot.querySelectorAll("[data-category-template]"),
+        ).map((button) =>
+          button.outerHTML.replace(' data-category-template="true"', ""),
         ),
       ];
 

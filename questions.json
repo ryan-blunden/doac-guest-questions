@@ -64,7 +64,7 @@
     "title": "Alcohol Rewires Your Brain - Dr. Sarah Wakeman",
     "video_url": "https://www.youtube.com/watch?v=Fg7U-BhiZGE",
     "question": "If you could redo or revise one thing that you have successfully accomplished, what would that be and why?",
-    "category": "business",
+    "category": "life",
     "question_extraction": "anchor",
     "confidence": 86,
     "hidden": false
@@ -74,7 +74,7 @@
     "title": "America Is at Breaking Point, Is Gavin Newsom America\u2019s Next President?",
     "video_url": "https://www.youtube.com/watch?v=1NLoTuRR3hE",
     "question": "Have you received a sign from beyond?",
-    "category": "society",
+    "category": "beliefs",
     "question_extraction": "anchor",
     "confidence": 100,
     "hidden": false
@@ -84,7 +84,7 @@
     "title": "An AI Expert Warning: 6 People Are (Quietly) Deciding Humanity\u2019s Future!",
     "video_url": "https://www.youtube.com/watch?v=P7Y-fynYsgE",
     "question": "What do you value the most in life and why?",
-    "category": "society",
+    "category": "life",
     "question_extraction": "anchor",
     "confidence": 96,
     "hidden": false
@@ -114,7 +114,7 @@
     "title": "Body Language Expert Explains Why People Dislike You",
     "video_url": "https://www.youtube.com/watch?v=ldizQkuWpDE",
     "question": "What are you doing on a daily basis to improve the life of someone else?",
-    "category": "health",
+    "category": "relationships",
     "question_extraction": "anchor",
     "confidence": 96,
     "hidden": false
@@ -154,7 +154,7 @@
     "title": "Calm App Founder: From $0 To $2 Billion By Making The World Meditate: Michael Acton Smith | E117",
     "video_url": "https://www.youtube.com/watch?v=DAVw-yQRUjE",
     "question": "What is the pain you enjoy having?",
-    "category": "society",
+    "category": "life",
     "question_extraction": "marker",
     "confidence": 56,
     "hidden": false
@@ -174,7 +174,7 @@
     "title": "CEO Of Microsoft AI: AI Is Becoming More Dangerous And Threatening! - Mustafa Suleyman",
     "video_url": "https://www.youtube.com/watch?v=CTxnLsYHWuI",
     "question": "What is a space or place that you consider the most sacred",
-    "category": "society",
+    "category": "beliefs",
     "question_extraction": "marker",
     "confidence": 40,
     "hidden": false
@@ -194,7 +194,7 @@
     "title": "Chris Williamson: Fix This One Habit And 2026 Will Be Your Best Year!",
     "video_url": "https://www.youtube.com/watch?v=q_vZ4H3uW28",
     "question": "What is the most important component of human joy and endeavor that you believe must be preserved in priority?",
-    "category": "life",
+    "category": "beliefs",
     "question_extraction": "anchor",
     "confidence": 86,
     "hidden": false
@@ -214,7 +214,7 @@
     "title": "CIA Spy: \"Leave The USA Before 2030!\" Why You Shouldn't Trust Your Gut! - Andrew Bustamante",
     "video_url": "https://www.youtube.com/watch?v=QVVe2rCHtN0",
     "question": "What is something you used to strongly believe that you have fundamentally changed your mind on?",
-    "category": "health",
+    "category": "beliefs",
     "question_extraction": "anchor",
     "confidence": 96,
     "hidden": false
@@ -294,7 +294,7 @@
     "title": "Divorce Expert: Slippage Is Tearing Marriages Apart! If Kids Are Your Priority You\u2019ll Divorce!",
     "video_url": "https://www.youtube.com/watch?v=oAgGirY-GUQ",
     "question": "What is your most controversial opinion?",
-    "category": "relationships",
+    "category": "beliefs",
     "question_extraction": "anchor",
     "confidence": 96,
     "hidden": false
@@ -314,7 +314,7 @@
     "title": "Dr Sampson: Your Oral Microbiome Is Linked To This Disease!",
     "video_url": "https://www.youtube.com/watch?v=p3fSwd1cF08",
     "question": "What is the most important relationship in your life and why?",
-    "category": "life",
+    "category": "relationships",
     "question_extraction": "anchor",
     "confidence": 96,
     "hidden": false
@@ -324,7 +324,7 @@
     "title": "Early Retirement Expert: A House Vs Stocks... (Here Is The Truth)",
     "video_url": "https://www.youtube.com/watch?v=99xyy1nUpug",
     "question": "If you had all the money you needed to have to support yourself and your family, zero financial worries, what job profession would you be doing?",
-    "category": "beliefs",
+    "category": "business",
     "question_extraction": "anchor",
     "confidence": 56,
     "hidden": false
@@ -344,7 +344,7 @@
     "title": "Esther Perel: The 3 Attachment Styles & Why You\u2019re Struggling With Love!",
     "video_url": "https://www.youtube.com/watch?v=nTWXfo7narw",
     "question": "What is the one piece of advice you received in the last decade that you think about most frequently?",
-    "category": "relationships",
+    "category": "life",
     "question_extraction": "anchor",
     "confidence": 86,
     "hidden": false
@@ -354,7 +354,7 @@
     "title": "Ex Google CEO: AI Can Create Deadly Viruses! If We See This, We Must Turn Off AI!",
     "video_url": "https://www.youtube.com/watch?v=2Zg--ouGl7c",
     "question": "What is your non-negotiable",
-    "category": "society",
+    "category": "life",
     "question_extraction": "marker",
     "confidence": 100,
     "hidden": false
@@ -364,7 +364,7 @@
     "title": "Ex-Google Exec (WARNING): The Next 15 Years Will Be Hell Before We Get To Heaven! - Mo Gawdat",
     "video_url": "https://www.youtube.com/watch?v=S9a1nLw70p0",
     "question": "What three things do you do you do that make your brain better and three things that make it worse?",
-    "category": "society",
+    "category": "health",
     "question_extraction": "fallback-tail",
     "confidence": 100,
     "hidden": false
@@ -374,7 +374,7 @@
     "title": "Exact Formula Used To Build A $130 Billion Company! I Said No to $3B From Mark Zuckerberg!",
     "video_url": "https://www.youtube.com/watch?v=rBM6lGk4-fk",
     "question": "What is the hardest thing you ever had to overcome?",
-    "category": "business",
+    "category": "life",
     "question_extraction": "fallback-tail",
     "confidence": 100,
     "hidden": false
@@ -384,7 +384,7 @@
     "title": "Exercise & Nutrition Scientist: The Truth About Exercise On Your Period! Take These 4 Supplements!",
     "video_url": "https://www.youtube.com/watch?v=It5_C6AF1pk",
     "question": "If you have children, what is the most important message you would pass on to them?",
-    "category": "beliefs",
+    "category": "relationships",
     "question_extraction": "anchor",
     "confidence": 96,
     "hidden": false
@@ -404,7 +404,7 @@
     "title": "Fighting Sexism & Winning: The Founder Behind The $1Billion Dollar Tech Company Bumble",
     "video_url": "https://www.youtube.com/watch?v=ca5h47tJsdE",
     "question": "What is the last belief you would relinquish?",
-    "category": "business",
+    "category": "beliefs",
     "question_extraction": "marker",
     "confidence": 100,
     "hidden": false
@@ -434,7 +434,7 @@
     "title": "Godfather of AI: They Keep Silencing Me But I\u2019m Trying to Warn Them!",
     "video_url": "https://www.youtube.com/watch?v=giT0ytynSqg",
     "question": "What is the biggest threat you see to human happiness?",
-    "category": "society",
+    "category": "beliefs",
     "question_extraction": "anchor",
     "confidence": 96,
     "hidden": false
@@ -494,7 +494,7 @@
     "title": "How To Make Money...\"Do Not Buy A House!\" 10 Ways To Make REAL Money: Ramit Sethi",
     "video_url": "https://www.youtube.com/watch?v=ORqd9QAC8OY",
     "question": "What is other people's biggest misconception of you?",
-    "category": "business",
+    "category": "general",
     "question_extraction": "anchor",
     "confidence": 96,
     "hidden": false
@@ -534,7 +534,7 @@
     "title": "Insulin Expert: How To 'Drain' Your Liver of Fat (Do This!)",
     "video_url": "https://www.youtube.com/watch?v=C7LL7VwP8Nc",
     "question": "If you could have anything in the world for the rest of your life, what would it be and why?",
-    "category": "health",
+    "category": "life",
     "question_extraction": "fallback-tail",
     "confidence": 100,
     "hidden": false
@@ -544,7 +544,7 @@
     "title": "Invest in This \u2013 It\u2019ll Be Worth $1.5 Million by 2030 | World Leading Investing Expert",
     "video_url": "https://www.youtube.com/watch?v=ZznpMh0DegE",
     "question": "What is the craziest idea you ever had that turned out to be right?",
-    "category": "society",
+    "category": "business",
     "question_extraction": "anchor",
     "confidence": 96,
     "hidden": false
@@ -584,7 +584,7 @@
     "title": "Jeff Cavaliere: The TRUTH about Creatine! Melt Belly Fat With 1 Change!",
     "video_url": "https://www.youtube.com/watch?v=epAVydG6IxI",
     "question": "What would you change about you first and secondly?",
-    "category": "beliefs",
+    "category": "life",
     "question_extraction": "anchor",
     "confidence": 96,
     "hidden": false
@@ -624,7 +624,7 @@
     "title": "Jordan B Peterson: You Need To Listen To Your Wife! We've Built A Lonely & Sexless Society!",
     "video_url": "https://www.youtube.com/watch?v=Hik6OY-nk4c",
     "question": "How do you feel most misunderstood",
-    "category": "society",
+    "category": "relationships",
     "question_extraction": "marker",
     "confidence": 40,
     "hidden": true
@@ -644,7 +644,7 @@
     "title": "Kamala Harris: America Is At Breaking Point & I'm Deeply Concerned About The State Of The Country!",
     "video_url": "https://www.youtube.com/watch?v=D3lhrrXb4WI",
     "question": "If there was a moment in the last 10 years you would do differently, what would it be and why?",
-    "category": "society",
+    "category": "life",
     "question_extraction": "anchor",
     "confidence": 96,
     "hidden": false
@@ -654,7 +654,7 @@
     "title": "Kevin Hart: They're Lying To You About How To Become A Millionaire! I Was Doing 28 Sets A Weekend!",
     "video_url": "https://www.youtube.com/watch?v=5sCGZAcXKWg",
     "question": "What is the advice you got as an adult that had the most significant impact on your life?",
-    "category": "business",
+    "category": "life",
     "question_extraction": "anchor",
     "confidence": 96,
     "hidden": false
@@ -664,7 +664,7 @@
     "title": "Kevin O'Leary: Every Time You Get Paid, Do This! It 10xs Your Income Without Having To Work Harder!",
     "video_url": "https://www.youtube.com/watch?v=mpAZehPviLQ",
     "question": "Where do you believe happiness really comes from?",
-    "category": "business",
+    "category": "beliefs",
     "question_extraction": "anchor",
     "confidence": 96,
     "hidden": false
@@ -784,7 +784,7 @@
     "title": "Mohnish Pabrai: FASTEST Way To Financial Freedom! Proven Playbook For Quitting Your 9-5 In 9 Months!",
     "video_url": "https://www.youtube.com/watch?v=qgeQ5kMVwRA",
     "question": "If you could go anywhere right now instantly, where would you go?",
-    "category": "society",
+    "category": "life",
     "question_extraction": "anchor",
     "confidence": 96,
     "hidden": false
@@ -804,7 +804,7 @@
     "title": "MrBallen (Former Navy SEAL): If You Feel Lost, Here's How To Turn Your Life Around In 2025!",
     "video_url": "https://www.youtube.com/watch?v=rDyTyppGxSg",
     "question": "What do you see as the most desirable future for the New Media podcast world",
-    "category": "society",
+    "category": "business",
     "question_extraction": "marker",
     "confidence": 40,
     "hidden": true
@@ -824,7 +824,7 @@
     "title": "Neuroscientist (Dr. Tara Swart): Evidence We Can Communicate After Death!",
     "video_url": "https://www.youtube.com/watch?v=yfEQRqFo2bI",
     "question": "What is the best thing that someone has done for you?",
-    "category": "life",
+    "category": "relationships",
     "question_extraction": "anchor",
     "confidence": 96,
     "hidden": false
@@ -854,7 +854,7 @@
     "title": "No.1 Christianity Expert: The Truth About Christianity! The Case For Jesus (Historian's Proof)",
     "video_url": "https://www.youtube.com/watch?v=nrwNSSyKuD4",
     "question": "What is one risk that you should be taking in your life but aren't currently?",
-    "category": "beliefs",
+    "category": "life",
     "question_extraction": "anchor",
     "confidence": 96,
     "hidden": false
@@ -894,7 +894,7 @@
     "title": "No. 1 Sugar Expert: You've Been Sold A Lie About \"Healthy\" Food!",
     "video_url": "https://www.youtube.com/watch?v=ZE_H7rijrVk",
     "question": "How would you describe the journey of life and how to approach it?",
-    "category": "health",
+    "category": "beliefs",
     "question_extraction": "anchor",
     "confidence": 96,
     "hidden": false
@@ -954,7 +954,7 @@
     "title": "Ray Dalio: We\u2019re Heading Into Very, Very Dark Times! America & The UK\u2019s Decline Is Coming!",
     "video_url": "https://www.youtube.com/watch?v=49RT6SQ8n0Y",
     "question": "What is a book or books that you've recommended or gifted more than others and why?",
-    "category": "society",
+    "category": "beliefs",
     "question_extraction": "anchor",
     "confidence": 96,
     "hidden": false
@@ -1024,7 +1024,7 @@
     "title": "Sex Expert (Esther Perel): The Relationship Crisis No One Talks About That's Killing Your Sex Life!",
     "video_url": "https://www.youtube.com/watch?v=QCaFWrT0j-g",
     "question": "How are you going to adapt to a world of AI and robots?",
-    "category": "society",
+    "category": "business",
     "question_extraction": "anchor",
     "confidence": 96,
     "hidden": false
@@ -1074,7 +1074,7 @@
     "title": "Simon Sinek: You're Being Lied To About AI's Real Purpose! We're Teaching Our Kids To Not Be Human!",
     "video_url": "https://www.youtube.com/watch?v=W4tqbEmplug",
     "question": "What are you doing in your life to mentor someone coming up behind you",
-    "category": "beliefs",
+    "category": "relationships",
     "question_extraction": "fallback-tail",
     "confidence": 72,
     "hidden": false
@@ -1114,7 +1114,7 @@
     "title": "The AI Safety Expert: These Are The Only 5 Jobs That Will Remain In 2030! - Dr. Roman Yampolskiy",
     "video_url": "https://www.youtube.com/watch?v=UclrVWafRAI",
     "question": "What does loyalty mean to you?",
-    "category": "society",
+    "category": "relationships",
     "question_extraction": "fallback-tail",
     "confidence": 72,
     "hidden": false
@@ -1144,7 +1144,7 @@
     "title": "The Business Expert: How To Build A Brand In 2025! They're Lying To You About Work-Life Balance!",
     "video_url": "https://www.youtube.com/watch?v=EdlXcVu1CTs",
     "question": "What about you is better or has vastly improved because of the person who loves you the most?",
-    "category": "business",
+    "category": "relationships",
     "question_extraction": "anchor",
     "confidence": 96,
     "hidden": false
@@ -1194,7 +1194,7 @@
     "title": "The Food Doctor: Extra Protein Is Making You Fatter!? 6 Food Lies Everyone Still Believes!",
     "video_url": "https://www.youtube.com/watch?v=7XrntcEUjLM",
     "question": "What is a modern positive vision of masculinity?",
-    "category": "health",
+    "category": "beliefs",
     "question_extraction": "anchor",
     "confidence": 96,
     "hidden": false
@@ -1244,7 +1244,7 @@
     "title": "The Iran War Expert: I Simulated The Iran War for 20 Years. Here\u2019s What Happens Next",
     "video_url": "https://www.youtube.com/watch?v=xcXfcXJvMXg",
     "question": "What is the prediction you have for the future that most people do not want to hear?",
-    "category": "society",
+    "category": "beliefs",
     "question_extraction": "anchor",
     "confidence": 96,
     "hidden": false
@@ -1274,7 +1274,7 @@
     "title": "The Man Warning The West: Trump Is Changing The World Behind The Scenes",
     "video_url": "https://www.youtube.com/watch?v=nJeU72Rgjh4",
     "question": "Who was the biggest non-family member influence in your life and how did they make you a better person?",
-    "category": "society",
+    "category": "relationships",
     "question_extraction": "anchor",
     "confidence": 86,
     "hidden": false
@@ -1294,7 +1294,7 @@
     "title": "The Money Making Expert: The Exact Formula For Turning $100 into $100k Per Month! - Daniel Priestley",
     "video_url": "https://www.youtube.com/watch?v=u0o3IlsEQbI",
     "question": "What is the one thing you'd wish you'd known about sex and relationships in your youth that you later learned the the a lot of the enjoyment of sex is the relationship that you're having with",
-    "category": "business",
+    "category": "relationships",
     "question_extraction": "marker",
     "confidence": 0,
     "hidden": true
@@ -1304,7 +1304,7 @@
     "title": "The More Successful You Are The Longer You'll Live! Will Storr",
     "video_url": "https://www.youtube.com/watch?v=qC-U7qy7cH4",
     "question": "When it all gets too dark what helps you find the light when it all gets too dark what helps you find the light",
-    "category": "business",
+    "category": "life",
     "question_extraction": "marker",
     "confidence": 30,
     "hidden": true
@@ -1334,7 +1334,7 @@
     "title": "The Porn Addiction Crisis No One Wants to Talk About \u2013 Dr. K",
     "video_url": "https://www.youtube.com/watch?v=dm2qDrb3UVo",
     "question": "What is the most powerful love in your life and why?",
-    "category": "life",
+    "category": "relationships",
     "question_extraction": "anchor",
     "confidence": 96,
     "hidden": false
@@ -1424,7 +1424,7 @@
     "title": "They're Lying About 'Healthy' Foods & Sugar! Shocking New Research That's Harming You",
     "video_url": "https://www.youtube.com/watch?v=Xm_PHZXGe-w",
     "question": "If you could make the world a better place in one way, what would you change?",
-    "category": "health",
+    "category": "beliefs",
     "question_extraction": "anchor",
     "confidence": 96,
     "hidden": false
@@ -1434,7 +1434,7 @@
     "title": "This Common Food Is Feeding Your Cancer Cells - Dr. William Li",
     "video_url": "https://www.youtube.com/watch?v=LgsJ3V9pIG0",
     "question": "How would you be able to tell that your time here on Earth has been successful, that you've achieved what you set out to achieve?",
-    "category": "business",
+    "category": "life",
     "question_extraction": "anchor",
     "confidence": 68,
     "hidden": false
@@ -1444,7 +1444,7 @@
     "title": "Tim Ferriss: The Hidden Nerve That Controls Trauma, Mood & Emotional Pain!",
     "video_url": "https://www.youtube.com/watch?v=GFyijjy1KdU",
     "question": "Did I spend the amount of time I would want to spend with these people last year?",
-    "category": "health",
+    "category": "relationships",
     "question_extraction": "fallback-tail",
     "confidence": 60,
     "hidden": true
@@ -1454,7 +1454,7 @@
     "title": "Tom Aspinall Opens Up About Brain Damage & His Future In the UFC",
     "video_url": "https://www.youtube.com/watch?v=puc5pZVsFPY",
     "question": "Why don't you work harder?",
-    "category": "society",
+    "category": "business",
     "question_extraction": "anchor",
     "confidence": 96,
     "hidden": false
@@ -1504,7 +1504,7 @@
     "title": "Top Psychologist, Donald Hoffman: Seeing True Reality Would Kill Us! I Can Prove It To You!",
     "video_url": "https://www.youtube.com/watch?v=W0vTZrZny6A",
     "question": "What would you do if you knew you could not fail?",
-    "category": "society",
+    "category": "life",
     "question_extraction": "anchor",
     "confidence": 96,
     "hidden": false
@@ -1524,7 +1524,7 @@
     "title": "Uber CEO: I Have To Be Honest, AI Will Replace 9.4 Million Jobs At Uber!",
     "video_url": "https://www.youtube.com/watch?v=s52O1JH2tnU",
     "question": "What is one conversation that if you could rewind time and have you would have today but can no longer have?",
-    "category": "society",
+    "category": "relationships",
     "question_extraction": "anchor",
     "confidence": 74,
     "hidden": false
@@ -1534,7 +1534,7 @@
     "title": "Unlock The Secrets Of Your Mind, Boost Productivity & Reduce Stress! - Yung Pueblo | E255",
     "video_url": "https://www.youtube.com/watch?v=l5WybwqCZic",
     "question": "What is your rich life hmm my rich life would be being able to meditate as much as",
-    "category": "health",
+    "category": "life",
     "question_extraction": "marker",
     "confidence": 40,
     "hidden": true
@@ -1554,7 +1554,7 @@
     "title": "Women Health Expert: Birth Control Changes Who You Are & How You Feel About Your Partner!",
     "video_url": "https://www.youtube.com/watch?v=MGposaKNJKQ",
     "question": "Hm okay what is the Legacy that you want to leave behind",
-    "category": "health",
+    "category": "life",
     "question_extraction": "marker",
     "confidence": 28,
     "hidden": true
@@ -1584,7 +1584,7 @@
     "title": "World No.1 Fasting Expert: The Link Between Cancer & Fasting That They're Hiding From You!",
     "video_url": "https://www.youtube.com/watch?v=jDG1m_b5Ih0",
     "question": "What is the biggest lie that you think is ruining most people's life?",
-    "category": "life",
+    "category": "beliefs",
     "question_extraction": "anchor",
     "confidence": 96,
     "hidden": false
@@ -1604,7 +1604,7 @@
     "title": "World's Greatest Climber: If I Had One Last Climb It Would Be...",
     "video_url": "https://www.youtube.com/watch?v=ajgwabD4_HE",
     "question": "What do you want to achieve in your life outside of your mainline job that you haven't yet achieved?",
-    "category": "society",
+    "category": "life",
     "question_extraction": "anchor",
     "confidence": 86,
     "hidden": false
@@ -1624,7 +1624,7 @@
     "title": "WW3 Threat Assessment: World War III Has Quietly Started!",
     "video_url": "https://www.youtube.com/watch?v=8qObdS-bhRM",
     "question": "What do they think about the world?",
-    "category": "society",
+    "category": "general",
     "question_extraction": "fallback-tail",
     "confidence": 72,
     "hidden": true
@@ -1634,7 +1634,7 @@
     "title": "You\u2019re Watching the End of the World in Real Time - Eric Weinstein",
     "video_url": "https://www.youtube.com/watch?v=I-iyGGPabpI",
     "question": "What is the problem that you are doing the most mental gymnastics to avoid?",
-    "category": "society",
+    "category": "life",
     "question_extraction": "fallback-tail",
     "confidence": 72,
     "hidden": true
@@ -1644,7 +1644,7 @@
     "title": "Yuval Noah Harari: An Urgent Warning They Hope You Ignore. More War Is Coming!",
     "video_url": "https://www.youtube.com/watch?v=UzOJiqN_DpM",
     "question": "If you could impose a global law, but only one global law, what would it be and why?",
-    "category": "society",
+    "category": "beliefs",
     "question_extraction": "anchor",
     "confidence": 96,
     "hidden": false
@@ -1654,7 +1654,7 @@
     "title": "Yuval Noah Harari: They Are Lying About AI! The Trump Kamala Election Will Tear The Country Apart!",
     "video_url": "https://www.youtube.com/watch?v=78YN1e8UXdM",
     "question": "What does it mean to be strong",
-    "category": "society",
+    "category": "life",
     "question_extraction": "marker",
     "confidence": 40,
     "hidden": true
