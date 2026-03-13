@@ -1,5 +1,15 @@
 [
   {
+    "slug": "10-life-changing-lessons-from-the-longest-ever-study-on-human-happiness-dr-rober",
+    "title": "10 Life-changing Lessons From The Longest Ever Study On Human Happiness! Dr. Robert Waldinger | E246",
+    "video_url": "https://www.youtube.com/watch?v=Itg00I2q8lk",
+    "question": "If you could go back to one era in Civilization what era would you pick why and what would your job be oh interesting",
+    "category": "life",
+    "question_extraction": "marker",
+    "confidence": 18,
+    "hidden": true
+  },
+  {
     "slug": "5-natural-medicines-big-pharma-are-hiding-from-you-no-1-herbal-medicine-expert",
     "title": "5 Natural Medicines Big Pharma Are Hiding From You! No.1 Herbal Medicine Expert",
     "video_url": "https://www.youtube.com/watch?v=5Jk5XCLAr6w",
@@ -8,6 +18,26 @@
     "question_extraction": "anchor",
     "confidence": 54,
     "hidden": false
+  },
+  {
+    "slug": "a-billionaire-s-guide-to-healing-your-mind-and-extending-your-life-christian-ang",
+    "title": "A Billionaire\u2019s Guide To Healing Your Mind And Extending Your Life: Christian Angermayer | E72",
+    "video_url": "https://www.youtube.com/watch?v=yH5YplNDjJM",
+    "question": "But like you know what I mean?",
+    "category": "beliefs",
+    "question_extraction": "fallback-tail",
+    "confidence": 60,
+    "hidden": true
+  },
+  {
+    "slug": "addiction-childhood-trauma-and-depression-with-joe-wicks-the-body-coach-e60",
+    "title": "Addiction, Childhood Trauma And Depression With Joe Wicks (The Body Coach) | E60",
+    "video_url": "https://www.youtube.com/watch?v=OZN7xRCAz58",
+    "question": "What should we do now?",
+    "category": "health",
+    "question_extraction": "fallback-tail",
+    "confidence": 72,
+    "hidden": true
   },
   {
     "slug": "ai-agents-debate-these-jobs-won-t-exist-in-24-months",
@@ -93,16 +123,6 @@
     "slug": "brain-experts-warning-watch-this-before-using-chatgpt-again-shocking-new-discove",
     "title": "Brain Experts WARNING: Watch This Before Using ChatGPT Again! (Shocking New Discovery)",
     "video_url": "https://www.youtube.com/watch?v=5wXlmlIXJOI",
-    "question": "Are you prepared for recognition of your next health challenge?",
-    "category": "health",
-    "question_extraction": "anchor",
-    "confidence": 100,
-    "hidden": false
-  },
-  {
-    "slug": "brain-experts-warning-watch-this-before-using-chatgpt-again-shocking-new-discove",
-    "title": "Brain Experts WARNING: Watch This Before Using ChatGPT Again! (Shocking New Discovery)",
-    "video_url": "https://www.youtube.com/watch?v=5wXlmlIXJOI",
     "question": "How will you address the challenge even if it means a major lifestyle change or way of living?",
     "category": "health",
     "question_extraction": "anchor",
@@ -127,6 +147,36 @@
     "category": "general",
     "question_extraction": "anchor",
     "confidence": 96,
+    "hidden": false
+  },
+  {
+    "slug": "calm-app-founder-from-0-to-2-billion-by-making-the-world-meditate-michael-acton-",
+    "title": "Calm App Founder: From $0 To $2 Billion By Making The World Meditate: Michael Acton Smith | E117",
+    "video_url": "https://www.youtube.com/watch?v=DAVw-yQRUjE",
+    "question": "What is the pain you enjoy having?",
+    "category": "society",
+    "question_extraction": "marker",
+    "confidence": 56,
+    "hidden": false
+  },
+  {
+    "slug": "casey-neistat-why-i-quit-youtube-what-i-m-doing-now",
+    "title": "Casey Neistat: Why I Quit YouTube & What I'm Doing Now!",
+    "video_url": "https://www.youtube.com/watch?v=vFuyiCnROzs",
+    "question": "What is one piece of feedback you want to give to me yes me stevenh but might be nervous to tell me?",
+    "category": "general",
+    "question_extraction": "marker",
+    "confidence": 100,
+    "hidden": false
+  },
+  {
+    "slug": "ceo-of-microsoft-ai-ai-is-becoming-more-dangerous-and-threatening-mustafa-suleym",
+    "title": "CEO Of Microsoft AI: AI Is Becoming More Dangerous And Threatening! - Mustafa Suleyman",
+    "video_url": "https://www.youtube.com/watch?v=CTxnLsYHWuI",
+    "question": "What is a space or place that you consider the most sacred",
+    "category": "society",
+    "question_extraction": "marker",
+    "confidence": 40,
     "hidden": false
   },
   {
@@ -180,6 +230,16 @@
     "hidden": false
   },
   {
+    "slug": "cmo-of-netflix-work-life-balance-is-bad-advice-i-lost-my-baby-my-husband",
+    "title": "CMO Of Netflix: \"Work Life Balance\" Is BAD Advice! I Lost My Baby & My Husband!",
+    "video_url": "https://www.youtube.com/watch?v=cuVTVOdkmek",
+    "question": "What moment in your journey made you fight even harder to get to where you are right now",
+    "category": "business",
+    "question_extraction": "marker",
+    "confidence": 40,
+    "hidden": true
+  },
+  {
     "slug": "cognitive-decline-expert-the-disease-that-starts-in-your-30s-but-kills-you-in-yo",
     "title": "Cognitive Decline Expert: The Disease That Starts in Your 30s but Kills You in Your 70s",
     "video_url": "https://www.youtube.com/watch?v=0t_DD5568RA",
@@ -187,6 +247,26 @@
     "category": "beliefs",
     "question_extraction": "anchor",
     "confidence": 96,
+    "hidden": false
+  },
+  {
+    "slug": "corrupt-cop-i-had-sex-with-girls-in-my-police-car-arrested-drug-dealers-then-sol",
+    "title": "Corrupt Cop: I Had Sex With Girls In My Police Car, Arrested Drug Dealers, Then Sold Their Drugs!",
+    "video_url": "https://www.youtube.com/watch?v=NSsx6mkiaf8",
+    "question": "What is the gift that the universe, life, or God has put you here to share?",
+    "category": "beliefs",
+    "question_extraction": "marker",
+    "confidence": 100,
+    "hidden": false
+  },
+  {
+    "slug": "david-moyes-reveals-the-truth-about-man-united-west-ham-his-future-e213",
+    "title": "David Moyes Reveals The Truth About Man United, West Ham & His Future | E213",
+    "video_url": "https://www.youtube.com/watch?v=YWnaf_Zd5_Y",
+    "question": "What is the biggest public misconception about?",
+    "category": "beliefs",
+    "question_extraction": "marker",
+    "confidence": 100,
     "hidden": false
   },
   {
@@ -250,6 +330,16 @@
     "hidden": false
   },
   {
+    "slug": "eddie-hearn-on-selling-matchroom-for-5-billion-e58",
+    "title": "Eddie Hearn on Selling Matchroom For 5 Billion | E58",
+    "video_url": "https://www.youtube.com/watch?v=JF-_w4gvZec",
+    "question": "How do you do you not get nervous?",
+    "category": "life",
+    "question_extraction": "fallback-tail",
+    "confidence": 72,
+    "hidden": false
+  },
+  {
     "slug": "esther-perel-the-3-attachment-styles-why-you-re-struggling-with-love",
     "title": "Esther Perel: The 3 Attachment Styles & Why You\u2019re Struggling With Love!",
     "video_url": "https://www.youtube.com/watch?v=nTWXfo7narw",
@@ -257,6 +347,16 @@
     "category": "relationships",
     "question_extraction": "anchor",
     "confidence": 86,
+    "hidden": false
+  },
+  {
+    "slug": "ex-google-ceo-ai-can-create-deadly-viruses-if-we-see-this-we-must-turn-off-ai",
+    "title": "Ex Google CEO: AI Can Create Deadly Viruses! If We See This, We Must Turn Off AI!",
+    "video_url": "https://www.youtube.com/watch?v=2Zg--ouGl7c",
+    "question": "What is your non-negotiable",
+    "category": "society",
+    "question_extraction": "marker",
+    "confidence": 100,
     "hidden": false
   },
   {
@@ -287,6 +387,26 @@
     "category": "beliefs",
     "question_extraction": "anchor",
     "confidence": 96,
+    "hidden": false
+  },
+  {
+    "slug": "feeling-lost-neuroscience-explains-why-the-science-behind-happiness-dr-tali-shar",
+    "title": "Feeling Lost? Neuroscience Explains Why! The Science Behind Happiness! - Dr Tali Sharot",
+    "video_url": "https://www.youtube.com/watch?v=0DZK1nawEXQ",
+    "question": "Can you describe what winning means to you",
+    "category": "life",
+    "question_extraction": "marker",
+    "confidence": 100,
+    "hidden": false
+  },
+  {
+    "slug": "fighting-sexism-winning-the-founder-behind-the-1billion-dollar-tech-company-bumb",
+    "title": "Fighting Sexism & Winning: The Founder Behind The $1Billion Dollar Tech Company Bumble",
+    "video_url": "https://www.youtube.com/watch?v=ca5h47tJsdE",
+    "question": "What is the last belief you would relinquish?",
+    "category": "business",
+    "question_extraction": "marker",
+    "confidence": 100,
     "hidden": false
   },
   {
@@ -328,6 +448,26 @@
     "question_extraction": "anchor",
     "confidence": 56,
     "hidden": false
+  },
+  {
+    "slug": "harvard-professor-they-re-lying-to-you-about-running-breathing-sitting-daniel-li",
+    "title": "Harvard Professor: They\u2019re Lying To You About Running, Breathing & Sitting! - Daniel Lieberman",
+    "video_url": "https://www.youtube.com/watch?v=A-8tPmQtYqs",
+    "question": "For what would you be willing to die today that's a very hard one",
+    "category": "general",
+    "question_extraction": "marker",
+    "confidence": 28,
+    "hidden": true
+  },
+  {
+    "slug": "he-put-a-gun-in-my-mouth-then-beat-me-up-molly-bloom-molly-s-game",
+    "title": "\"He Put A Gun In My Mouth, Then Beat Me Up!\" - Molly Bloom (Molly's Game)",
+    "video_url": "https://www.youtube.com/watch?v=q3Rf_9GFico",
+    "question": "What is the message you needed to hear when you were younger that you didn't hear and who was the best per",
+    "category": "life",
+    "question_extraction": "marker",
+    "confidence": 18,
+    "hidden": true
   },
   {
     "slug": "hormone-expert-control-your-hormones-control-your-belly-fat-cortisol-oestrogen-t",
@@ -420,6 +560,26 @@
     "hidden": false
   },
   {
+    "slug": "jaackmaate-the-untold-story-of-my-battle-with-health-anxiety-ocd-e127",
+    "title": "Jaackmaate: The Untold Story Of My Battle With Health Anxiety & OCD | E127",
+    "video_url": "https://www.youtube.com/watch?v=1DV6I5hK6ro",
+    "question": "Usually, we don't tell people who the question is from, right?",
+    "category": "health",
+    "question_extraction": "fallback-tail",
+    "confidence": 60,
+    "hidden": false
+  },
+  {
+    "slug": "james-smith-how-to-create-the-life-you-ve-always-wanted-e120",
+    "title": "James Smith: How To Create The Life You\u2019ve Always Wanted | E120",
+    "video_url": "https://www.youtube.com/watch?v=ke6KS8WuPUk",
+    "question": "Which you might have seen before if you've watched a podcast before, which is the previous guest asks the next guest a question, and they never know who they're writing it for. And also, I never know what the question is until I read it. So, what is your definition of luck?",
+    "category": "life",
+    "question_extraction": "marker",
+    "confidence": 0,
+    "hidden": true
+  },
+  {
     "slug": "jeff-cavaliere-the-truth-about-creatine-melt-belly-fat-with-1-change",
     "title": "Jeff Cavaliere: The TRUTH about Creatine! Melt Belly Fat With 1 Change!",
     "video_url": "https://www.youtube.com/watch?v=epAVydG6IxI",
@@ -428,6 +588,16 @@
     "question_extraction": "anchor",
     "confidence": 96,
     "hidden": false
+  },
+  {
+    "slug": "jimmy-carr-the-easiest-way-to-live-a-happier-life-e106",
+    "title": "Jimmy Carr: The Easiest Way To Live A Happier Life | E106",
+    "video_url": "https://www.youtube.com/watch?v=roROKlZhZyo",
+    "question": "Is an important thing with that. I mean I don't read as an immigrant in any way, shape or form, just your average white guy, but and I sound like I was privately educated, but it's interesting in the book of like people's perception of you. You have to be aware who you are and you have to be aware how you're perceived. They're both important. And you I think acceptance of that is like a it's like that thing of what's the first step on the journey to finding your purpose. It's like well you have to know who you are. You have to start with like there's an honesty to comedy of going right this is what I've got. Going back to that the first person you were sort of I guess assigned to cherup which was your mother. What was did you know at the time she was depressed?",
+    "category": "life",
+    "question_extraction": "marker",
+    "confidence": 4,
+    "hidden": true
   },
   {
     "slug": "jimmy-fallon-i-didn-t-expect-it-to-be-this-brutal-the-hate-was-something-i-wasn-",
@@ -448,6 +618,26 @@
     "question_extraction": "anchor",
     "confidence": 56,
     "hidden": false
+  },
+  {
+    "slug": "jordan-b-peterson-you-need-to-listen-to-your-wife-we-ve-built-a-lonely-sexless-s",
+    "title": "Jordan B Peterson: You Need To Listen To Your Wife! We've Built A Lonely & Sexless Society!",
+    "video_url": "https://www.youtube.com/watch?v=Hik6OY-nk4c",
+    "question": "How do you feel most misunderstood",
+    "category": "society",
+    "question_extraction": "marker",
+    "confidence": 40,
+    "hidden": true
+  },
+  {
+    "slug": "jordan-peterson-how-to-become-the-person-you-ve-always-wanted-to-be-e113",
+    "title": "Jordan Peterson: How To Become The Person You\u2019ve Always Wanted To Be | E113",
+    "video_url": "https://www.youtube.com/watch?v=3uLDin9A9pc",
+    "question": "Where all the guests that come on write a question for the next guest. So there is a question in there for you. But the guest wrote a question um which changed his life which is um are you happy?",
+    "category": "life",
+    "question_extraction": "marker",
+    "confidence": 0,
+    "hidden": true
   },
   {
     "slug": "kamala-harris-america-is-at-breaking-point-i-m-deeply-concerned-about-the-state-",
@@ -480,6 +670,36 @@
     "hidden": false
   },
   {
+    "slug": "klarna-founder-from-0-to-46-billion-sebastian-siemiatkowski-e98",
+    "title": "Klarna Founder: From $0 to $46 Billion: Sebastian Siemiatkowski | E98",
+    "video_url": "https://www.youtube.com/watch?v=QNYPRdyVq0s",
+    "question": "But how would you do that if you pass them your wealth?",
+    "category": "business",
+    "question_extraction": "fallback-tail",
+    "confidence": 60,
+    "hidden": false
+  },
+  {
+    "slug": "krept-from-rapper-to-building-a-17-5-million-baby-business-e164",
+    "title": "Krept: From Rapper To Building A \u00a317.5 Million Baby Business! | E164",
+    "video_url": "https://www.youtube.com/watch?v=bxdMrA36qhE",
+    "question": "Where the last guest asks the next guest a question. and they don't know who they're writing it for and I don't get to read the question until I open this book. So, yeah. Um, interesting. These are always quite difficult because they're always quite profound, but um, when was the last time you changed your mind about something life-changing?",
+    "category": "life",
+    "question_extraction": "marker",
+    "confidence": 0,
+    "hidden": true
+  },
+  {
+    "slug": "leading-childhood-trauma-doctor-10-lies-they-told-you-about-your-childhood-traum",
+    "title": "Leading Childhood Trauma Doctor: 10 Lies They Told You About Your Childhood Trauma! - Paul Conti",
+    "video_url": "https://www.youtube.com/watch?v=USE89i0kiiQ",
+    "question": "Who they're going to be leaving it for. And the question that's been left for you feels quite fitting and very interesting. I really like this one. It just says, it's not even written as a question. It just says, erase one regret from your life dot dot dot. Wow. You know, I think I should have paid more attention to the world around me when I was younger and more lost in trying to feel good enough at the moment. And I think that it made it harder to sort of find my path. And I think it made it harder. I think my brother hadn't found his path. And I think there was a lot of frantic anxiety or fear driven forward movement without pausing and circumspection. And it may be that we just talked about we've talked about his suicide and we've talked about that in this podcast. So it's it's kind of at the forefront of my memory. But when I think back then I probably knew well enough to be more circumspect including about what might have been going on in him or in me. And um I'm happy I got myself on a path that's led to places that feel good and that I think are generative and productive. Um I wish I had more attention to the bigger picture when I was significantly younger. Why?",
+    "category": "life",
+    "question_extraction": "marker",
+    "confidence": 16,
+    "hidden": true
+  },
+  {
     "slug": "longevity-debate-shocking-weight-loss-truth-they-ve-been-hiding-this-for-years",
     "title": "Longevity Debate: SHOCKING Weight Loss Truth! They've Been Hiding This For YEARS!",
     "video_url": "https://www.youtube.com/watch?v=P1CeHGJOX5g",
@@ -510,6 +730,16 @@
     "hidden": true
   },
   {
+    "slug": "matt-hancock-opens-up-about-his-affair-mistakes-the-pandemic-e121",
+    "title": "Matt Hancock: Opens Up About His Affair, Mistakes & The Pandemic | E121",
+    "video_url": "https://www.youtube.com/watch?v=OMfc98lOw_M",
+    "question": "Is question for you. If you were lying on your deathbed, what three things would you want to have achieved in life?",
+    "category": "life",
+    "question_extraction": "marker",
+    "confidence": 34,
+    "hidden": true
+  },
+  {
     "slug": "matthew-mcconaughey-the-silent-crisis-no-one-is-talking-about-i-sabotaged-my-own",
     "title": "Matthew McConaughey: The Silent Crisis No One Is Talking About! I Sabotaged My Own Career!",
     "video_url": "https://www.youtube.com/watch?v=QMzxNfX-uAg",
@@ -518,6 +748,16 @@
     "question_extraction": "anchor",
     "confidence": 96,
     "hidden": false
+  },
+  {
+    "slug": "mel-robbins-this-one-hack-will-unlock-your-happier-life-e108",
+    "title": "Mel Robbins: This One Hack Will Unlock Your Happier Life | E108",
+    "video_url": "https://www.youtube.com/watch?v=0kOtvoX88J0",
+    "question": "Which is in the diary, the famous diary of a CEO, the previous guest always writes a question for the next guest that's coming and they don't know who they are. Okay. And these guests, they're so diverse. It's always so fascinating and they never know who they're writing it for, which is also interesting. The previous guest wrote, \"What is the one regret you have, if you have any at all?",
+    "category": "life",
+    "question_extraction": "marker",
+    "confidence": 0,
+    "hidden": true
   },
   {
     "slug": "michelle-obama-this-is-a-scam-people-were-running-from-us-because-we-were-black",
@@ -548,6 +788,26 @@
     "question_extraction": "anchor",
     "confidence": 96,
     "hidden": false
+  },
+  {
+    "slug": "molly-mae-how-she-became-creative-director-of-plt-at-22-110",
+    "title": "Molly Mae: How She Became Creative Director Of PLT At 22 | 110",
+    "video_url": "https://www.youtube.com/watch?v=6WgIOKFLrHY",
+    "question": "Like you've achieved enough and you've done enough and to be to be happy, you know, do you feel like you're enough?",
+    "category": "life",
+    "question_extraction": "fallback-tail",
+    "confidence": 38,
+    "hidden": true
+  },
+  {
+    "slug": "mrballen-former-navy-seal-if-you-feel-lost-here-s-how-to-turn-your-life-around-i",
+    "title": "MrBallen (Former Navy SEAL): If You Feel Lost, Here's How To Turn Your Life Around In 2025!",
+    "video_url": "https://www.youtube.com/watch?v=rDyTyppGxSg",
+    "question": "What do you see as the most desirable future for the New Media podcast world",
+    "category": "society",
+    "question_extraction": "marker",
+    "confidence": 40,
+    "hidden": true
   },
   {
     "slug": "neil-degrasse-tyson-the-harsh-truth-about-horoscopes-sorry-but-it-s-true",
@@ -610,6 +870,16 @@
     "hidden": true
   },
   {
+    "slug": "no-1-neuroscientist-new-research-your-life-your-work-your-sex-life-will-get-bori",
+    "title": "No.1 Neuroscientist: NEW RESEARCH Your Life, Your Work & Your Sex Life Will Get Boring! (THE FIX)",
+    "video_url": "https://www.youtube.com/watch?v=7KTwmEGsY5g",
+    "question": "What is one thing that people who are listening could do that you know about that would improve their lives how about",
+    "category": "life",
+    "question_extraction": "marker",
+    "confidence": 30,
+    "hidden": true
+  },
+  {
     "slug": "no-1-neuroscientist-your-whole-life-might-be-a-prediction",
     "title": "No.1 Neuroscientist: Your Whole Life Might Be a Prediction",
     "video_url": "https://www.youtube.com/watch?v=rCtvAvZtJyE",
@@ -660,6 +930,16 @@
     "hidden": true
   },
   {
+    "slug": "paul-brunson-the-70-30-body-shape-is-scientifically-the-most-sexy-this-predicts-",
+    "title": "Paul Brunson: \"The 70/30 Body Shape Is Scientifically The Most Sexy\" & THIS Predicts Divorce!",
+    "video_url": "https://www.youtube.com/watch?v=i2sHBL8BjWI",
+    "question": "What things are you doing that are contributing to keeping you stuck or stopping you from progressing in the way that you would like oh wow",
+    "category": "health",
+    "question_extraction": "marker",
+    "confidence": 12,
+    "hidden": true
+  },
+  {
     "slug": "peter-attia-anti-aging-cure-no-one-talks-about-50-chance-you-ll-die-in-a-year-if",
     "title": "Peter Attia: Anti-aging Cure No One Talks About! 50% Chance You\u2019ll Die In A Year If This Happens!",
     "video_url": "https://www.youtube.com/watch?v=ZxXruY7llcc",
@@ -687,6 +967,16 @@
     "category": "general",
     "question_extraction": "anchor",
     "confidence": 96,
+    "hidden": true
+  },
+  {
+    "slug": "russell-howard-how-to-laugh-through-fear-anxiety-imposter-syndrome-e109",
+    "title": "Russell Howard: How To Laugh Through Fear, Anxiety & Imposter Syndrome | E109",
+    "video_url": "https://www.youtube.com/watch?v=CLcqXg0fFvY",
+    "question": "Is it like a No, it's just it's sort of if you're there, yeah, there's maybe it's just that weird thing of like, right, I've done 10, I can, you know, and then if you don't do 10 the first time and it falls, you got to do 20 and if it falls 30. So, do you know what I mean?",
+    "category": "life",
+    "question_extraction": "marker",
+    "confidence": 4,
     "hidden": true
   },
   {
@@ -750,6 +1040,16 @@
     "hidden": false
   },
   {
+    "slug": "she-cheated-on-me-and-thats-not-all-dr-aria-e56",
+    "title": "She Cheated On Me and Thats Not All - Dr. Aria | E56",
+    "video_url": "https://www.youtube.com/watch?v=foScUA0qbNs",
+    "question": "Do you know what I mean?",
+    "category": "general",
+    "question_extraction": "fallback-tail",
+    "confidence": 72,
+    "hidden": false
+  },
+  {
     "slug": "simon-cowell-opens-up-about-his-heartbreaking-loss-his-regrets-about-one-directi",
     "title": "Simon Cowell Opens Up About His Heartbreaking Loss & His Regrets About One Direction!",
     "video_url": "https://www.youtube.com/watch?v=BvsbCdCG8gE",
@@ -790,6 +1090,16 @@
     "hidden": false
   },
   {
+    "slug": "starling-ceo-building-a-1-5-billion-business-against-the-odds-anne-boden-e107",
+    "title": "Starling CEO: Building a $1.5 Billion Business Against The Odds: Anne Boden | E107",
+    "video_url": "https://www.youtube.com/watch?v=bEhrajW_uGg",
+    "question": "Do you really understand the purpose of your life here on Earth?",
+    "category": "life",
+    "question_extraction": "fallback-tail",
+    "confidence": 72,
+    "hidden": false
+  },
+  {
     "slug": "the-6-science-backed-brain-fixes-most-people-are-ignoring",
     "title": "The 6 Science Backed Brain Fixes Most People Are Ignoring!",
     "video_url": "https://www.youtube.com/watch?v=Oipkl53n938",
@@ -808,6 +1118,26 @@
     "question_extraction": "fallback-tail",
     "confidence": 72,
     "hidden": false
+  },
+  {
+    "slug": "the-behaviour-expert-instantly-read-any-room-how-to-hack-your-discipline-chase-h",
+    "title": "The Behaviour Expert: Instantly Read Any Room & How To Hack Your Discipline! Chase Hughes",
+    "video_url": "https://www.youtube.com/watch?v=RvjR9GM2kX8",
+    "question": "How can we consistently feel and appreciate the blessings in our lives and this is interesting because you talked about gratitude earlier on yeah",
+    "category": "life",
+    "question_extraction": "marker",
+    "confidence": 18,
+    "hidden": true
+  },
+  {
+    "slug": "the-body-language-expert-4-body-language-tricks-that-will-make-people-love-you-r",
+    "title": "The Body Language Expert: 4 Body Language Tricks That Will Make People Love You & Respect You!",
+    "video_url": "https://www.youtube.com/watch?v=YEM3nWkB-EE",
+    "question": "If we discovered a cure for sadness such that we would never need ex need experience it again would you support the development of that cure",
+    "category": "relationships",
+    "question_extraction": "marker",
+    "confidence": 0,
+    "hidden": true
   },
   {
     "slug": "the-business-expert-how-to-build-a-brand-in-2025-they-re-lying-to-you-about-work",
@@ -837,6 +1167,16 @@
     "category": "general",
     "question_extraction": "anchor",
     "confidence": 96,
+    "hidden": true
+  },
+  {
+    "slug": "the-extreme-sleep-scientist-the-painful-trick-to-fix-insomnia-and-poor-sleep",
+    "title": "The Extreme Sleep Scientist: The Painful Trick To Fix Insomnia And Poor Sleep!",
+    "video_url": "https://www.youtube.com/watch?v=Desm53JJVMA",
+    "question": "What is the most difficult decision you ever had to make and how did it benefit you oh God",
+    "category": "beliefs",
+    "question_extraction": "marker",
+    "confidence": 30,
     "hidden": true
   },
   {
@@ -880,6 +1220,26 @@
     "hidden": true
   },
   {
+    "slug": "the-happiness-expert-that-made-51-million-people-happier-mo-gawdat-e101",
+    "title": "The Happiness Expert That Made 51 Million People Happier: Mo Gawdat | E101",
+    "video_url": "https://www.youtube.com/watch?v=csA9YhzYvmk",
+    "question": "When we raise the machines, by the way, going back to scary smart, are we going to raise them to be masculine geeks or are we going to raise them to be lifegiving?",
+    "category": "life",
+    "question_extraction": "fallback-tail",
+    "confidence": 44,
+    "hidden": true
+  },
+  {
+    "slug": "the-healthy-ageing-doctor-doing-this-for-30s-will-burn-more-fat-than-a-long-run-",
+    "title": "The Healthy Ageing Doctor: Doing This For 30s Will Burn More Fat Than A Long Run! Dr Vonda Wright",
+    "video_url": "https://www.youtube.com/watch?v=D6wTuogebU8",
+    "question": "What was the last time you took an uncomfortable risk the last time",
+    "category": "health",
+    "question_extraction": "marker",
+    "confidence": 40,
+    "hidden": true
+  },
+  {
     "slug": "the-iran-war-expert-i-simulated-the-iran-war-for-20-years-here-s-what-happens-ne",
     "title": "The Iran War Expert: I Simulated The Iran War for 20 Years. Here\u2019s What Happens Next",
     "video_url": "https://www.youtube.com/watch?v=xcXfcXJvMXg",
@@ -900,6 +1260,16 @@
     "hidden": false
   },
   {
+    "slug": "the-man-behind-red-bull-racing-s-success-christian-horner",
+    "title": "The Man Behind Red Bull Racing's Success! Christian Horner",
+    "video_url": "https://www.youtube.com/watch?v=FR570m_YzNg",
+    "question": "Where the last guest asks a question for the next guest. They don't know who they're writing it for. Right. And the question that's been written for you is quite an interesting one. I don't get to see it until I open this book, but the question that's been written for you is, this can be taken in many ways. Okay. How will you control your own greed?",
+    "category": "beliefs",
+    "question_extraction": "marker",
+    "confidence": 0,
+    "hidden": true
+  },
+  {
     "slug": "the-man-warning-the-west-trump-is-changing-the-world-behind-the-scenes",
     "title": "The Man Warning The West: Trump Is Changing The World Behind The Scenes",
     "video_url": "https://www.youtube.com/watch?v=nJeU72Rgjh4",
@@ -917,6 +1287,36 @@
     "category": "health",
     "question_extraction": "fallback-tail",
     "confidence": 72,
+    "hidden": true
+  },
+  {
+    "slug": "the-money-making-expert-the-exact-formula-for-turning-100-into-100k-per-month-da",
+    "title": "The Money Making Expert: The Exact Formula For Turning $100 into $100k Per Month! - Daniel Priestley",
+    "video_url": "https://www.youtube.com/watch?v=u0o3IlsEQbI",
+    "question": "What is the one thing you'd wish you'd known about sex and relationships in your youth that you later learned the the a lot of the enjoyment of sex is the relationship that you're having with",
+    "category": "business",
+    "question_extraction": "marker",
+    "confidence": 0,
+    "hidden": true
+  },
+  {
+    "slug": "the-more-successful-you-are-the-longer-you-ll-live-will-storr",
+    "title": "The More Successful You Are The Longer You'll Live! Will Storr",
+    "video_url": "https://www.youtube.com/watch?v=qC-U7qy7cH4",
+    "question": "When it all gets too dark what helps you find the light when it all gets too dark what helps you find the light",
+    "category": "business",
+    "question_extraction": "marker",
+    "confidence": 30,
+    "hidden": true
+  },
+  {
+    "slug": "the-no-1-brain-doctor-this-parenting-mistake-ruins-your-kids-brain-alcohol-will-",
+    "title": "The No.1 Brain Doctor: This Parenting Mistake Ruins Your Kids Brain & Alcohol Will Ruin Yours!",
+    "video_url": "https://www.youtube.com/watch?v=bOi_Y4ythYY",
+    "question": "What advice would you give a couple who want to start a family",
+    "category": "relationships",
+    "question_extraction": "marker",
+    "confidence": 40,
     "hidden": true
   },
   {
@@ -940,6 +1340,16 @@
     "hidden": false
   },
   {
+    "slug": "the-rise-the-fall-the-rebuild-of-true-geordie-e87",
+    "title": "The Rise, The Fall & The Rebuild Of True Geordie | E87",
+    "video_url": "https://www.youtube.com/watch?v=YHtZZ-kSGU8",
+    "question": "You know what I mean?",
+    "category": "general",
+    "question_extraction": "fallback-tail",
+    "confidence": 60,
+    "hidden": false
+  },
+  {
     "slug": "the-savings-expert-passive-income-is-a-scam-post-traumatic-broke-syndrome-is-con",
     "title": "The Savings Expert: Passive Income Is A Scam! Post-Traumatic Broke Syndrome Is Controlling Millions!",
     "video_url": "https://www.youtube.com/watch?v=jFlnRBO8mcg",
@@ -960,6 +1370,16 @@
     "hidden": false
   },
   {
+    "slug": "the-secret-to-a-good-nights-sleep-with-stephanie-romiszewski-e64",
+    "title": "The Secret To A Good Nights Sleep with Stephanie Romiszewski | E64",
+    "video_url": "https://www.youtube.com/watch?v=18iBvgUbSMk",
+    "question": "Where can people find you?",
+    "category": "health",
+    "question_extraction": "fallback-tail",
+    "confidence": 72,
+    "hidden": false
+  },
+  {
     "slug": "the-simple-proven-way-to-earn-100-000-from-nothing-the-money-making-experts",
     "title": "The SIMPLE (& Proven) Way To Earn $100,000 From Nothing! | The Money Making Experts",
     "video_url": "https://www.youtube.com/watch?v=hVlAOIUA71Y",
@@ -977,6 +1397,16 @@
     "category": "general",
     "question_extraction": "anchor",
     "confidence": 96,
+    "hidden": true
+  },
+  {
+    "slug": "the-truth-about-creatine-exercise-30-of-people-will-die-from-this-the-healthy-ag",
+    "title": "The Truth About Creatine & Exercise! 30% Of People Will Die From This! The Healthy Ageing Doctor",
+    "video_url": "https://www.youtube.com/watch?v=ffgpqk5hZBE",
+    "question": "How do you know when is enough",
+    "category": "beliefs",
+    "question_extraction": "marker",
+    "confidence": 40,
     "hidden": true
   },
   {
@@ -1030,6 +1460,16 @@
     "hidden": false
   },
   {
+    "slug": "tom-bilyeu-from-broke-sleeping-on-the-floor-to-a-1-billion-business",
+    "title": "Tom Bilyeu: From Broke & Sleeping On The Floor To A $1 Billion Business!",
+    "video_url": "https://www.youtube.com/watch?v=ct2k6iXLurg",
+    "question": "Do it where the previous guest writes a question for the next guest Tell a specific story of someone in your life who helped make you into the person you are today. What did they do specifically that made you into the person you are?",
+    "category": "business",
+    "question_extraction": "marker",
+    "confidence": 0,
+    "hidden": true
+  },
+  {
     "slug": "tony-robbins-no-one-is-ready-for-what-s-coming-the-truth-about-ai",
     "title": "Tony Robbins: No One Is Ready For What's Coming (The truth about AI).",
     "video_url": "https://www.youtube.com/watch?v=I_w81rptxkc",
@@ -1070,6 +1510,16 @@
     "hidden": false
   },
   {
+    "slug": "trinny-woodall-how-she-went-from-drug-addict-to-300m-business-empire",
+    "title": "Trinny Woodall: How She Went From Drug Addict To $300m Business Empire!",
+    "video_url": "https://www.youtube.com/watch?v=amUpZsEl5Rs",
+    "question": "What's the one thing that gives you the most healthy pleasure in life and how can you commit to harness more of it going down a skinny slope at 83 kilometers an hour but the thing is",
+    "category": "business",
+    "question_extraction": "marker",
+    "confidence": 0,
+    "hidden": true
+  },
+  {
     "slug": "uber-ceo-i-have-to-be-honest-ai-will-replace-9-4-million-jobs-at-uber",
     "title": "Uber CEO: I Have To Be Honest, AI Will Replace 9.4 Million Jobs At Uber!",
     "video_url": "https://www.youtube.com/watch?v=s52O1JH2tnU",
@@ -1080,6 +1530,16 @@
     "hidden": false
   },
   {
+    "slug": "unlock-the-secrets-of-your-mind-boost-productivity-reduce-stress-yung-pueblo-e25",
+    "title": "Unlock The Secrets Of Your Mind, Boost Productivity & Reduce Stress! - Yung Pueblo | E255",
+    "video_url": "https://www.youtube.com/watch?v=l5WybwqCZic",
+    "question": "What is your rich life hmm my rich life would be being able to meditate as much as",
+    "category": "health",
+    "question_extraction": "marker",
+    "confidence": 40,
+    "hidden": true
+  },
+  {
     "slug": "vitamin-d-expert-the-fastest-way-to-dementia-the-big-lie-about-sunlight",
     "title": "Vitamin D Expert: The Fastest Way To Dementia & The Big Lie About Sunlight!",
     "video_url": "https://www.youtube.com/watch?v=wQJlGHVmdrA",
@@ -1087,6 +1547,16 @@
     "category": "health",
     "question_extraction": "anchor",
     "confidence": 74,
+    "hidden": true
+  },
+  {
+    "slug": "women-health-expert-birth-control-changes-who-you-are-how-you-feel-about-your-pa",
+    "title": "Women Health Expert: Birth Control Changes Who You Are & How You Feel About Your Partner!",
+    "video_url": "https://www.youtube.com/watch?v=MGposaKNJKQ",
+    "question": "Hm okay what is the Legacy that you want to leave behind",
+    "category": "health",
+    "question_extraction": "marker",
+    "confidence": 28,
     "hidden": true
   },
   {
@@ -1178,5 +1648,15 @@
     "question_extraction": "anchor",
     "confidence": 96,
     "hidden": false
+  },
+  {
+    "slug": "yuval-noah-harari-they-are-lying-about-ai-the-trump-kamala-election-will-tear-th",
+    "title": "Yuval Noah Harari: They Are Lying About AI! The Trump Kamala Election Will Tear The Country Apart!",
+    "video_url": "https://www.youtube.com/watch?v=78YN1e8UXdM",
+    "question": "What does it mean to be strong",
+    "category": "society",
+    "question_extraction": "marker",
+    "confidence": 40,
+    "hidden": true
   }
 ]
