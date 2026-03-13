@@ -1,0 +1,20 @@
+---
+import type { Question } from "../data/questions";
+
+interface Props {
+  item: Question;
+  compact?: boolean;
+}
+
+const { item, compact = false } = Astro.props;
+---
+
+<article class:list={["question-card", compact && "question-card--compact"]}>
+  <header class="question-card__header">
+    <span class="question-card__category">{item.category}</span>
+  </header>
+
+  <div class="question-card__body">
+    <p class="question-card__question">{item.question}</p>
+  </div>
+</article>

@@ -1,0 +1,14 @@
+{
+  "name": "doac-guest-questions-site",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:questions": "uv run python scripts/build_questions.py",
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "astro": "^5.14.2"
+  }
+}

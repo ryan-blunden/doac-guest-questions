@@ -1,0 +1,170 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { categories, questions } from "../data/questions";
+
+const questionPayload = JSON.stringify(questions);
+---
+
+<BaseLayout
+  title="DOAC Guest Questions"
+  description="Draw a random question left behind by a Diary of a CEO guest."
+  activePath="/"
+>
+  <section class="section-panel page-surface draw-surface">
+    <div class="page-filters">
+      <div class="page-filter-bar">
+        <div class="pill-row page-filter-row" id="category-filters">
+          {categories.map((category) => (
+            <button
+              class="pill"
+              data-category={category.slug}
+              data-category-template="true"
+              type="button"
+            >
+              {category.label}
+            </button>
+          ))}
+        </div>
+
+        <button class="button primary draw-action-button" id="draw-another" type="button">
+          Draw
+        </button>
+      </div>
+    </div>
+
+    <div class="draw-card-wrap" id="random-card-panel">
+      <div class="draw-placeholder" aria-hidden="true"></div>
+    </div>
+  </section>
+
+  <style>
+    .draw-surface {
+      grid-template-rows: auto minmax(0, 1fr) auto;
+      min-height: calc(100svh - 190px);
+    }
+
+    .draw-card-wrap {
+      align-items: flex-start;
+      display: flex;
+      justify-content: center;
+      padding-top: 34px;
+    }
+
+    .draw-placeholder {
+      aspect-ratio: var(--card-aspect);
+      background: rgba(20, 20, 20, 0.04);
+      border: 1.5px dashed rgba(20, 20, 20, 0.14);
+      border-radius: var(--card-radius);
+      max-width: min(100%, min(390px, calc((100svh - 320px) * var(--card-aspect))));
+      width: min(100%, min(390px, calc((100svh - 320px) * var(--card-aspect))));
+    }
+
+    .draw-card-wrap :global(.question-card) {
+      height: auto;
+      max-width: min(100%, 390px);
+      width: min(100%, 390px);
+    }
+
+    .draw-action-button {
+      cursor: pointer;
+      flex: 0 0 auto;
+      min-width: 128px;
+      justify-content: center;
+      padding: 12px 20px;
+    }
+
+    @media (max-width: 720px) {
+      .draw-surface {
+        min-height: auto;
+      }
+
+      .draw-card-wrap :global(.question-card) {
+        max-width: min(100%, 320px);
+        width: min(100%, 320px);
+      }
+
+      .draw-card-wrap {
+        padding-top: 22px;
+      }
+
+      .draw-action-button {
+        width: 100%;
+      }
+    }
+  </style>
+
+  <script is:inline define:vars={{ questionPayload }}>
+    const allQuestions = JSON.parse(questionPayload);
+    const cardPanel = document.getElementById("random-card-panel");
+    const filterRoot = document.getElementById("category-filters");
+    let activeCategory = "all";
+
+    const escapeHtml = (value) =>
+      value
+        .replaceAll("&", "&amp;")
+        .replaceAll("<", "&lt;")
+        .replaceAll(">", "&gt;")
+        .replaceAll('"', "&quot;");
+
+    const renderCard = (item) => {
+      cardPanel.innerHTML = `
+        <article class="question-card">
+          <header class="question-card__header">
+            <span class="question-card__category">${escapeHtml(item.category)}</span>
+          </header>
+          <div class="question-card__body">
+            <p class="question-card__question">${escapeHtml(item.question)}</p>
+          </div>
+        </article>
+      `;
+    };
+
+    const renderFilterButtons = () => {
+      const buttons = [
+        `<button class="pill" data-category="all" type="button">All</button>`,
+        ...Array.from(filterRoot.querySelectorAll("[data-category-template]")).map(
+          (button) => button.outerHTML.replace(' data-category-template="true"', ""),
+        ),
+      ];
+
+      filterRoot.innerHTML = buttons.join("");
+    };
+
+    const getFilteredQuestions = () => {
+      if (activeCategory === "all") return allQuestions;
+      return allQuestions.filter((item) => item.category === activeCategory);
+    };
+
+    const updateFilterButtons = () => {
+      filterRoot?.querySelectorAll("[data-category]").forEach((button) => {
+        const active = button.getAttribute("data-category") === activeCategory;
+        button.classList.toggle("is-active", active);
+      });
+    };
+
+    const drawRandomCard = () => {
+      const items = getFilteredQuestions();
+      if (!items.length) return;
+      const next = items[Math.floor(Math.random() * items.length)];
+      renderCard(next);
+    };
+
+    filterRoot?.addEventListener("click", (event) => {
+      const target = event.target.closest("[data-category]");
+      if (!target) return;
+      activeCategory = target.getAttribute("data-category") ?? "all";
+      updateFilterButtons();
+      drawRandomCard();
+    });
+
+    renderFilterButtons();
+    updateFilterButtons();
+    drawRandomCard();
+
+    document.addEventListener("click", (event) => {
+      if (event.target?.id === "draw-another") {
+        drawRandomCard();
+      }
+    });
+  </script>
+</BaseLayout>

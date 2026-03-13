@@ -1,0 +1,115 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { categories, questions } from "../data/questions";
+
+const questionPayload = JSON.stringify(questions);
+const categoryPayload = JSON.stringify(categories);
+---
+
+<BaseLayout
+  title="All DOAC Guest Questions"
+  description="Browse the full archive of handoff questions from Diary of a CEO guests."
+  activePath="/all"
+>
+  <section class="section-panel">
+    <div class="page-surface">
+      <div class="page-filters">
+        <div class="page-filter-bar">
+          <div class="pill-row page-filter-row" id="archive-category-filters">
+            <button class="pill is-active" data-category="all" type="button">All</button>
+            {categories.map((category) => (
+              <button class="pill" data-category={category.slug} type="button">{category.label}</button>
+            ))}
+          </div>
+        </div>
+      </div>
+
+      <div class="archive-card-grid-wrap">
+        <div class="cards-grid" id="archive-cards-grid"></div>
+      </div>
+    </div>
+  </section>
+
+  <style>
+    .archive-card-grid-wrap {
+      padding-top: 34px;
+    }
+
+    @media (max-width: 720px) {
+      .archive-card-grid-wrap {
+        padding-top: 22px;
+      }
+    }
+  </style>
+
+  <script is:inline define:vars={{ questionPayload, categoryPayload }}>
+    const allQuestions = JSON.parse(questionPayload);
+    const categoryMeta = JSON.parse(categoryPayload);
+    const filterRoot = document.getElementById("archive-category-filters");
+    const cardsGrid = document.getElementById("archive-cards-grid");
+    let activeCategory = "all";
+
+    const escapeHtml = (value) =>
+      value
+        .replaceAll("&", "&amp;")
+        .replaceAll("<", "&lt;")
+        .replaceAll(">", "&gt;")
+        .replaceAll('"', "&quot;");
+
+    const categoryCounts = allQuestions.reduce((acc, item) => {
+      acc[item.category] = (acc[item.category] ?? 0) + 1;
+      return acc;
+    }, {});
+
+    const renderQuestionCard = (item) => `
+      <article class="question-card question-card--compact">
+        <header class="question-card__header">
+          <span class="question-card__category">${escapeHtml(item.category)}</span>
+        </header>
+        <div class="question-card__body">
+          <p class="question-card__question">${escapeHtml(item.question)}</p>
+        </div>
+      </article>
+    `;
+
+    const getFilteredQuestions = () => {
+      if (activeCategory === "all") return allQuestions;
+      return allQuestions.filter((item) => item.category === activeCategory);
+    };
+
+    const renderFilterButtons = () => {
+      const buttons = [
+        `<button class="pill" data-category="all" type="button" title="${allQuestions.length} cards">All</button>`,
+        ...categoryMeta.map(
+          (category) =>
+            `<button class="pill" data-category="${escapeHtml(category.slug)}" type="button" title="${categoryCounts[category.slug] ?? 0} cards">${escapeHtml(category.label)}</button>`,
+        ),
+      ];
+      filterRoot.innerHTML = buttons.join("");
+    };
+
+    const updateFilterButtons = () => {
+      filterRoot?.querySelectorAll("[data-category]").forEach((button) => {
+        const active = button.getAttribute("data-category") === activeCategory;
+        button.classList.toggle("is-active", active);
+      });
+    };
+
+    const renderGrid = () => {
+      const items = getFilteredQuestions();
+      cardsGrid.innerHTML = items.map(renderQuestionCard).join("");
+    };
+
+    filterRoot?.addEventListener("click", (event) => {
+      const target = event.target.closest("[data-category]");
+      if (!target) return;
+      activeCategory = target.getAttribute("data-category") ?? "all";
+      updateFilterButtons();
+      renderGrid();
+    });
+
+    renderFilterButtons();
+    updateFilterButtons();
+    renderGrid();
+  </script>
+</BaseLayout>
