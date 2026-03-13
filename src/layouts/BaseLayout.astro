@@ -116,9 +116,6 @@ const navItems: NavItem[] = [
         justify-content: space-between;
         margin-bottom: 36px;
         padding: 20px 24px;
-        position: sticky;
-        top: 18px;
-        z-index: 10;
       }
 
       .brand-lockup {
@@ -387,7 +384,7 @@ const navItems: NavItem[] = [
       .question-card__category {
         border: 1px solid rgba(20, 20, 20, 0.18);
         border-radius: 999px;
-        font-size: 0.72rem;
+        font-size: 0.612rem;
         font-weight: 800;
         letter-spacing: 0.14em;
         padding: 10px 12px;
@@ -404,7 +401,7 @@ const navItems: NavItem[] = [
 
       .question-card__question {
         font-family: "Caveat", cursive;
-        font-size: 3.2rem;
+        font-size: 2.72rem;
         line-height: 0.95;
         margin: 0;
         text-align: center;
@@ -536,36 +533,38 @@ const navItems: NavItem[] = [
         }
 
         .question-card__question {
-          font-size: 3.2rem;
+          font-size: 2.72rem;
         }
       }
     </style>
   </head>
   <body>
     <div class="site-shell">
-      <header class="site-header">
-        <div class="brand-lockup">
-          <span class="brand-kicker">The Diary Of A CEO</span>
-          <h1 class="brand-title">Closing Questions</h1>
-        </div>
-        <nav aria-label="Primary">
-          <ul class="nav-list">
-            {
-              navItems.map((item) => (
-                <li>
-                  <a
-                    class="nav-link"
-                    href={withBase(item.href)}
-                    aria-current={activePath === item.href ? "page" : undefined}
-                  >
-                    {item.label}
-                  </a>
-                </li>
-              ))
-            }
-          </ul>
-        </nav>
-      </header>
+      {/*
+        <header class="site-header">
+          <div class="brand-lockup">
+            <span class="brand-kicker">The Diary Of A CEO</span>
+            <h1 class="brand-title">Closing Questions</h1>
+          </div>
+          <nav aria-label="Primary">
+            <ul class="nav-list">
+              {
+                navItems.map((item) => (
+                  <li>
+                    <a
+                      class="nav-link"
+                      href={withBase(item.href)}
+                      aria-current={activePath === item.href ? "page" : undefined}
+                    >
+                      {item.label}
+                    </a>
+                  </li>
+                ))
+              }
+            </ul>
+          </nav>
+        </header>
+      */}
       <slot />
     </div>
   </body>
